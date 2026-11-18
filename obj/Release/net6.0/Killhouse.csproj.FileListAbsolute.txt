@@ -1,0 +1,13 @@
+E:\GPT\OPERATOR-Mods\Killhouse\source\bin\Release\net6.0\OperatorKillhouse.deps.json
+E:\GPT\OPERATOR-Mods\Killhouse\source\bin\Release\net6.0\OperatorKillhouse.dll
+E:\GPT\OPERATOR-Mods\Killhouse\source\bin\Release\net6.0\OperatorKillhouse.pdb
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\Killhouse.csproj.AssemblyReference.cache
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\Killhouse.GeneratedMSBuildEditorConfig.editorconfig
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\Killhouse.AssemblyInfoInputs.cache
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\Killhouse.AssemblyInfo.cs
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\Killhouse.csproj.CoreCompileInputs.cache
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\Killhouse.sourcelink.json
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\OperatorKillhouse.dll
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\refint\OperatorKillhouse.dll
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\OperatorKillhouse.pdb
+E:\GPT\OPERATOR-Mods\Killhouse\source\obj\Release\net6.0\ref\OperatorKillhouse.dll

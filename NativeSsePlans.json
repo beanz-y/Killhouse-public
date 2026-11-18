@@ -1,0 +1,660 @@
+[
+  {
+    "SourceFile": "sharedassets1.assets",
+    "SourceSize": 474083412,
+    "MetadataSize": 2032920,
+    "MetadataSha256": "99a6f3d2045abefdb05b1daa3dbc8aab36ac8f713fa16f9263058d4957e91d29",
+    "CountOffset": 15015,
+    "TableOffset": 15020,
+    "TableCount": 83883,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Resources/unity_builtin_extra",
+      "Library/unity default resources",
+      "resources.assets",
+      "sharedassets0.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 640,
+        "Type": "Texture2D",
+        "EntryOffset": 30356,
+        "Offset": 352104960,
+        "Size": 168,
+        "Sha256": "f17ba0b478e2912c14c9cff6910d643d0c8b3d5364fe1c1e846e1192725ac70e",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 232626768,
+          "Size": 5592432,
+          "Sha256": "3e40bfa2f536615888f5c4ec1be51cddbabedac8de29983185ef9ca839d48db6"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 741,
+        "Type": "Texture2D",
+        "EntryOffset": 32780,
+        "Offset": 352121872,
+        "Size": 160,
+        "Sha256": "c155c3f74e00c27b4a7051ca4cad0176939ef8f213608318dc0551965c1adea4",
+        "Stream": {
+          "FieldOffset": 116,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 287909712,
+          "Size": 349552,
+          "Sha256": "b30e1774871c00185085900636167c675216047dad3b775762586d6595ceb759"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1224,
+        "Type": "Texture2D",
+        "EntryOffset": 44372,
+        "Offset": 354999760,
+        "Size": 168,
+        "Sha256": "5f4a281e20d30b213aa44965bd1be71d59a290ee68c1cd083e9e883605935df4",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 609832080,
+          "Size": 5592432,
+          "Sha256": "81448c761650ef889683e03a1bf86ee3922f91bd9daa8d7229570f84d543c60a"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1286,
+        "Type": "Texture2D",
+        "EntryOffset": 45860,
+        "Offset": 355010272,
+        "Size": 156,
+        "Sha256": "08208c2135181f562f16400944fc045a1db938dd95390dd2d3eb0423ddc42f6e",
+        "Stream": {
+          "FieldOffset": 112,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 655362160,
+          "Size": 1398128,
+          "Sha256": "44a5f072fa120967af7a5d223dee22e360e5afdac27b8f3d594d1bcf1e15f96d"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1533,
+        "Type": "Texture2D",
+        "EntryOffset": 51788,
+        "Offset": 355052064,
+        "Size": 152,
+        "Sha256": "f5504d99807ce7a9e893608e0e780cd333ec59a6013fc8bc7a30c6600759fde9",
+        "Stream": {
+          "FieldOffset": 108,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 802288304,
+          "Size": 5592432,
+          "Sha256": "031ea21aa3d8d4a86608344bc1b0288a00c57ecce6028f17135bd4cf51dae9b9"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1620,
+        "Type": "Texture2D",
+        "EntryOffset": 53876,
+        "Offset": 355066880,
+        "Size": 148,
+        "Sha256": "16ad625a560ad05a6b1501ea20df38c5bbd9ae8417ad78e379fa638b6acdd5ea",
+        "Stream": {
+          "FieldOffset": 104,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 871598944,
+          "Size": 349552,
+          "Sha256": "21eddf2d5fb0c818449d6a0dffdf2ec92cd92f41f3827fb08661dfc73b696566"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1700,
+        "Type": "Texture2D",
+        "EntryOffset": 55796,
+        "Offset": 355080352,
+        "Size": 152,
+        "Sha256": "f6ba6a8652c60c3f272f945b192b755be9726eea719264bab7604cac704c8c60",
+        "Stream": {
+          "FieldOffset": 108,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 929334144,
+          "Size": 5592432,
+          "Sha256": "1e06f221ce15650798354b9f21f148f0ca4e5fa53af6d5becf41dd5cc90c2080"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1954,
+        "Type": "Texture2D",
+        "EntryOffset": 61892,
+        "Offset": 355298336,
+        "Size": 160,
+        "Sha256": "03686d0eaeb9f0980abbf412c5d901e3ed8c57f98b34e93c942836f109c17aa1",
+        "Stream": {
+          "FieldOffset": 116,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 1074721744,
+          "Size": 174776,
+          "Sha256": "32b2d97bbc3bd2a081dd037c6507fcfbb2becdc8d9ec678ec69916ac8ff27b8d"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 2894,
+        "Type": "Texture2D",
+        "EntryOffset": 84452,
+        "Offset": 355458240,
+        "Size": 156,
+        "Sha256": "550d27fefd2eda491eb1356b77d4686abcbf0882d1e12348106e2549e52df293",
+        "Stream": {
+          "FieldOffset": 112,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 1737094848,
+          "Size": 699064,
+          "Sha256": "e28efdef54af3721cd49f6b95b90aa4671d13725a74685a52a925bef58e3662f"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 3135,
+        "Type": "Texture2D",
+        "EntryOffset": 90236,
+        "Offset": 355499280,
+        "Size": 164,
+        "Sha256": "f85aa194bc40e8e1c2b9bb96147efe621c681702d208f89517ad0ec795280c6d",
+        "Stream": {
+          "FieldOffset": 120,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 1910773312,
+          "Size": 699064,
+          "Sha256": "dfc5e91d0e5d5ec7ec4148136a50d6483d77b060664dc5e95eb254d91bb0bb82"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 3296,
+        "Type": "Texture2D",
+        "EntryOffset": 94100,
+        "Offset": 355526704,
+        "Size": 168,
+        "Sha256": "4e49a369b5006941a4ea750a0b0c8784c8afdbee7cc816e27ea7fe7a27402379",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2007385424,
+          "Size": 2796216,
+          "Sha256": "1a10289f8dc4597d4064999984c2e7984f9e8cb6a720d711f860f6b738cc5986"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 3397,
+        "Type": "Texture2D",
+        "EntryOffset": 96524,
+        "Offset": 355543824,
+        "Size": 156,
+        "Sha256": "b7afeb9d397ab75e1347f1e905c35cf9beaabd86463bec613bb431f745bcccb6",
+        "Stream": {
+          "FieldOffset": 112,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2085118480,
+          "Size": 699064,
+          "Sha256": "5257bd0c2d48e818bedd39645ff4d18a4540cdb874232e9771137f79027fa694"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 3421,
+        "Type": "Texture2D",
+        "EntryOffset": 97100,
+        "Offset": 355547792,
+        "Size": 152,
+        "Sha256": "63a083edf6f4dc798e0d6b2c80c032e0a8f920dc4a831829b08f25050b4ad6be",
+        "Stream": {
+          "FieldOffset": 108,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2096341856,
+          "Size": 2796216,
+          "Sha256": "695671f62857af92f4fc0903f9e1dea21c8a9fda0e657319bc64832e2c76529b"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 3882,
+        "Type": "Mesh",
+        "EntryOffset": 108164,
+        "Offset": 422929680,
+        "Size": 47916,
+        "Sha256": "bafd7f45632cb90e1d06b2d3a77d893196609e809c3e236d8692f50b9c9c4c27",
+        "Stream": null,
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3885,
+        "Type": "Mesh",
+        "EntryOffset": 108236,
+        "Offset": 423424448,
+        "Size": 83052,
+        "Sha256": "fea8c74a908a960541075303169d6784e6863b3494693c4ebdea7abe91ce75fd",
+        "Stream": null,
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3887,
+        "Type": "Mesh",
+        "EntryOffset": 108284,
+        "Offset": 423519808,
+        "Size": 152324,
+        "Sha256": "50cf28533bdfa634bafcffb0b3ae67eec17cb6606fe0536852ff039966eae5c7",
+        "Stream": null,
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3891,
+        "Type": "Mesh",
+        "EntryOffset": 108380,
+        "Offset": 424151920,
+        "Size": 23140,
+        "Sha256": "ada5dbf5698a8ad6d966283be26e955df68491022767fa7bc1a891bf4a00d656",
+        "Stream": null,
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3908,
+        "Type": "Mesh",
+        "EntryOffset": 108788,
+        "Offset": 425012848,
+        "Size": 2268,
+        "Sha256": "cf8d2a0a0cfc815f272fe78daf8dbe501eae33d0b6c538c54eaa371888bd27c2",
+        "Stream": {
+          "FieldOffset": 2196,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2271709808,
+          "Size": 11952,
+          "Sha256": "cab8625dad708d94024a0292c4037935136ddcefaf16dade5f1e797f234caf53"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3927,
+        "Type": "Mesh",
+        "EntryOffset": 109244,
+        "Offset": 428693936,
+        "Size": 1256,
+        "Sha256": "7207e382c8de7edb413e8160582714548a0a6a3dcf1660c769ffe93b17cc231c",
+        "Stream": {
+          "FieldOffset": 1184,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2280844384,
+          "Size": 4860,
+          "Sha256": "fd6e2e5adf2821da5d9c8d7e88b6b4390d84f45e3dd0d040842ecf756c3144c7"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3944,
+        "Type": "Mesh",
+        "EntryOffset": 109652,
+        "Offset": 432853504,
+        "Size": 712,
+        "Sha256": "8a86de17421622369e96fe9ba33b75e0ff4d80a2b7bcc63ca82dc909651d65e8",
+        "Stream": {
+          "FieldOffset": 640,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2285837200,
+          "Size": 1728,
+          "Sha256": "a54c3fd9f802d0df2e363cc6775000e1528865aff6f4b8c686fcb433ad1dcc94"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3959,
+        "Type": "Mesh",
+        "EntryOffset": 110012,
+        "Offset": 434227952,
+        "Size": 1508,
+        "Sha256": "d7265ab81f65adf1386e06eb1768c9c28e45a2e00e69b704658d09a719bea223",
+        "Stream": {
+          "FieldOffset": 1436,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2286343472,
+          "Size": 6480,
+          "Sha256": "a151cba8e984fc3e6ecce6e57d1b85bd68b5099410eaf29e328c9e8732fed770"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3970,
+        "Type": "Mesh",
+        "EntryOffset": 110276,
+        "Offset": 438653392,
+        "Size": 3760,
+        "Sha256": "e82162a5424609fdf9b32f0880bdce65d46ebc0021b4ba08dbc043166fa1f169",
+        "Stream": {
+          "FieldOffset": 3688,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2286780848,
+          "Size": 16848,
+          "Sha256": "c396ed4c2345e2d717c4f836f09ebc1f0e13d95830852df0e1cbfb7d883c3174"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 3992,
+        "Type": "Mesh",
+        "EntryOffset": 110804,
+        "Offset": 441805920,
+        "Size": 708,
+        "Sha256": "4fc3b768f49516df2cee8fbd1e62dfe5ddc72412fe02092934c0f18bc8acc8ad",
+        "Stream": {
+          "FieldOffset": 636,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2289705344,
+          "Size": 1728,
+          "Sha256": "a54c3fd9f802d0df2e363cc6775000e1528865aff6f4b8c686fcb433ad1dcc94"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 4008,
+        "Type": "Mesh",
+        "EntryOffset": 111188,
+        "Offset": 442708160,
+        "Size": 712,
+        "Sha256": "6acb4c0d543c5deebca4acae2759ce5b22d926fd94a72458e9af4448c44a3ccc",
+        "Stream": {
+          "FieldOffset": 640,
+          "SourceFile": "sharedassets1.assets.resS",
+          "Offset": 2290005440,
+          "Size": 1728,
+          "Sha256": "a54c3fd9f802d0df2e363cc6775000e1528865aff6f4b8c686fcb433ad1dcc94"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      }
+    ],
+    "ExternalTableOffset": 2032416,
+    "ExternalTableSize": 235,
+    "UnityVersion": "6000.3.8f1",
+    "TargetPlatform": 19
+  },
+  {
+    "SourceFile": "sharedassets2.assets",
+    "SourceSize": 88159752,
+    "MetadataSize": 456527,
+    "MetadataSha256": "039c68ba1cfad3a808986d3d4dde4d2702f642340fa09975572bb8e1ced9d442",
+    "CountOffset": 5301,
+    "TableOffset": 5308,
+    "TableCount": 18738,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Library/unity default resources",
+      "resources.assets",
+      "sharedassets0.assets",
+      "sharedassets1.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 361,
+        "Type": "Texture2D",
+        "EntryOffset": 13948,
+        "Offset": 3672400,
+        "Size": 168,
+        "Sha256": "1593e3a43f821a26bda0b0d8ad69068583f969a5415a033780be80c9cb5cb649",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 55064176,
+          "Size": 2796216,
+          "Sha256": "b526b09a1b536f1a6408e6ebcfbab8db6dfbd37723f1beb8de84b52dd9b33039"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 549,
+        "Type": "Texture2D",
+        "EntryOffset": 18460,
+        "Offset": 11044400,
+        "Size": 168,
+        "Sha256": "7da5703f85b395b42ff25346fe3fa3fd805c2fd4e6e84bd59c15bcdb181d08e0",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 371620736,
+          "Size": 2796216,
+          "Sha256": "f608170844c816af5a03d4defd0caf5b2c87cd8c4b4d91db6b1ac0274aee5dba"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 581,
+        "Type": "Texture2D",
+        "EntryOffset": 19228,
+        "Offset": 11049792,
+        "Size": 168,
+        "Sha256": "9e0f1b4aadb3eb2c0ea6a5108cc1d0cdcc031034683f64fcfda826ca702889dd",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 434610416,
+          "Size": 5592432,
+          "Sha256": "8d94eac603387dab9058f8a7ea1a9ca46d49beb1cdb7d15a4d8baf994482ef77"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 649,
+        "Type": "Texture2D",
+        "EntryOffset": 20860,
+        "Offset": 14207152,
+        "Size": 168,
+        "Sha256": "7ea39f8aea32492b52d91b983034c7a485d3f1c7b705bef4ce66c011ba57374d",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 564374032,
+          "Size": 5592432,
+          "Sha256": "49cc55f44b5e317f0bfce11011b366a0bd3493e861bbffcb1e192cf28d4b2561"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 750,
+        "Type": "Texture2D",
+        "EntryOffset": 23284,
+        "Offset": 25059616,
+        "Size": 168,
+        "Sha256": "92c04c3bb190252b196b21986cc8750837aac868685cfbae15d99b2662e51429",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 810506288,
+          "Size": 5592432,
+          "Sha256": "ce2b42c12f284daecc02d782c745a1c37d959c63790111f17df0962bea1ac8d5"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 780,
+        "Type": "Texture2D",
+        "EntryOffset": 24004,
+        "Offset": 25064640,
+        "Size": 168,
+        "Sha256": "6735e27cb47e6120619228a65c60c8295c3e511864291bb0733cf79ea3f370d5",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 864080304,
+          "Size": 1398128,
+          "Sha256": "501ab37b731f9923fe360772cff81421f17e05e3edd65aa0c91a7eece6086d07"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 785,
+        "Type": "Texture2D",
+        "EntryOffset": 24124,
+        "Offset": 25065504,
+        "Size": 168,
+        "Sha256": "90816773ac43df60db9330e87ed2e61b11601912f5cb7b7232a60e58edff424a",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 877012864,
+          "Size": 349552,
+          "Sha256": "16e211121bda47f3ed9d31f61def7fa441c1e0e346f81b083d315d00fedcdd5a"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 870,
+        "Type": "Texture2D",
+        "EntryOffset": 26164,
+        "Offset": 35565760,
+        "Size": 168,
+        "Sha256": "41fbf918d90e2041c94304f846f42b2621e7fdec42493d4bc6e4e620b578cc08",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 1034253600,
+          "Size": 5592432,
+          "Sha256": "a95b60b2eb8d2bdd1326b01353f94173c1b45f3ab410496a33e80cc35623cb7c"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1108,
+        "Type": "Texture2D",
+        "EntryOffset": 31876,
+        "Offset": 54830336,
+        "Size": 168,
+        "Sha256": "05238d6dc300c9d5fbf699cc99d9640988a6ab16e21a39cc73581444de0aeeb0",
+        "Stream": {
+          "FieldOffset": 124,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 1554536992,
+          "Size": 5592432,
+          "Sha256": "caa2d02a64c372cc3a7ca8306225be637fb455e166b920cc8a3087b517eb9967"
+        },
+        "ClassId": 28,
+        "TypeSha256": "621e4d7e0384d29bb14be4b4dbb72c221f6509f5cfac49eb5e50c7300bfa8e09"
+      },
+      {
+        "Id": 1780,
+        "Type": "Mesh",
+        "EntryOffset": 48004,
+        "Offset": 82190672,
+        "Size": 1280,
+        "Sha256": "1e215329c7efee648c8adbdbc545ea866155e4d948979444ed912098a859342c",
+        "Stream": {
+          "FieldOffset": 1208,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 1587689040,
+          "Size": 7296,
+          "Sha256": "f0e1b4d9a8c65561b924e5cc5c2d0b4eb5d75896d029cb1340edd06bad9be858"
+        },
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      }
+    ],
+    "ExternalTableOffset": 456344,
+    "ExternalTableSize": 226,
+    "UnityVersion": "6000.3.8f1",
+    "TargetPlatform": 19
+  },
+  {
+    "SourceFile": "sharedassets27.assets",
+    "SourceSize": 83269488,
+    "MetadataSize": 33032,
+    "MetadataSha256": "f37a188dc72e95f4214140f9434c4188ddddccc864c9a0059302c4e19c0d398f",
+    "CountOffset": 1113,
+    "TableOffset": 1120,
+    "TableCount": 1286,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Library/unity default resources",
+      "resources.assets",
+      "sharedassets0.assets",
+      "sharedassets1.assets",
+      "sharedassets2.assets",
+      "sharedassets3.assets",
+      "sharedassets4.assets",
+      "sharedassets6.assets",
+      "sharedassets7.assets",
+      "sharedassets8.assets",
+      "sharedassets9.assets",
+      "sharedassets13.assets",
+      "sharedassets14.assets",
+      "sharedassets16.assets",
+      "sharedassets18.assets",
+      "sharedassets19.assets",
+      "sharedassets20.assets",
+      "sharedassets21.assets",
+      "sharedassets22.assets",
+      "sharedassets26.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 674,
+        "Type": "Mesh",
+        "EntryOffset": 17272,
+        "Offset": 47962624,
+        "Size": 16892,
+        "Sha256": "f4378b2c52c9ffc650439e3a6d2e9a283b1bce666dd47b238a39662dacb84995",
+        "Stream": null,
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      },
+      {
+        "Id": 688,
+        "Type": "Mesh",
+        "EntryOffset": 17608,
+        "Offset": 50349984,
+        "Size": 11264,
+        "Sha256": "e90e15a61bb0a5e9a060bd3eeb8fb520d35bb0133d92c733ea1bde7c159fefdb",
+        "Stream": null,
+        "ClassId": 43,
+        "TypeSha256": "38ae414cf57df9f4878e3a213955c5fcb8900c2f2cd1d9a7ef762ecc7748e24a"
+      }
+    ],
+    "ExternalTableOffset": 32168,
+    "ExternalTableSize": 907,
+    "UnityVersion": "6000.3.8f1",
+    "TargetPlatform": 19
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "SourceFile": "sharedassets13.assets",
+    "SourceSize": 163014020,
+    "MetadataSize": 32054,
+    "MetadataSha256": "8fc50ed98c0a8c02781b0bd99cd882f12cff274edecaeb11826db87eb4bd4090",
+    "CountOffset": 1122,
+    "TableOffset": 1128,
+    "TableCount": 1260,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Library/unity default resources",
+      "resources.assets",
+      "sharedassets0.assets",
+      "sharedassets1.assets",
+      "sharedassets2.assets",
+      "sharedassets3.assets",
+      "sharedassets4.assets",
+      "sharedassets6.assets",
+      "sharedassets8.assets",
+      "sharedassets9.assets",
+      "sharedassets11.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 212,
+        "Type": "Texture2D",
+        "EntryOffset": 6192,
+        "Offset": 24181424,
+        "Size": 160,
+        "Sha256": "c9661eaeee363bc65e9b20a9c0498922117b69c173dda96af67a26e10c6744f8",
+        "Stream": {
+          "FieldOffset": 116,
+          "SourceFile": "sharedassets13.assets.resS",
+          "Offset": 331919536,
+          "Size": 1398128,
+          "Sha256": "06a3315b1d2ee786d0abe323c7948253e53edd9d29f6f04a5be726156079b95c"
+        }
+      },
+      {
+        "Id": 215,
+        "Type": "Texture2D",
+        "EntryOffset": 6264,
+        "Offset": 24181920,
+        "Size": 156,
+        "Sha256": "7574006ce2d59a795a1daf75c9f028829cef1db461018d0dcd84ed331874d510",
+        "Stream": {
+          "FieldOffset": 112,
+          "SourceFile": "sharedassets13.assets.resS",
+          "Offset": 366872144,
+          "Size": 349552,
+          "Sha256": "6145edf330fe1f3b4bd07e0cc25c3c7bf44316cf10d48f1c3d04805ecc1d7685"
+        }
+      },
+      {
+        "Id": 272,
+        "Type": "Texture2D",
+        "EntryOffset": 7632,
+        "Offset": 24191312,
+        "Size": 156,
+        "Sha256": "93deb5920f9578ac46a6d8547c9a8c541cfa82241ea628a602051ba86584861d",
+        "Stream": {
+          "FieldOffset": 112,
+          "SourceFile": "sharedassets13.assets.resS",
+          "Offset": 718496064,
+          "Size": 1398128,
+          "Sha256": "3ef7d2d0b757fdfc9cdc57c7e0c3105335fab6fd19c6f53d99ba3756485af488"
+        }
+      },
+      {
+        "Id": 401,
+        "Type": "Texture2D",
+        "EntryOffset": 10728,
+        "Offset": 25610720,
+        "Size": 156,
+        "Sha256": "3c59dcbd0882df6bfb47d4a8a1d62101ef1f87fa1d42063cfcba3b0188fe47c3",
+        "Stream": {
+          "FieldOffset": 112,
+          "SourceFile": "sharedassets13.assets.resS",
+          "Offset": 1546205264,
+          "Size": 2796216,
+          "Sha256": "71bfc54812af0bfb5631e8e78e5fc793784bc72c4962cecf7f2b51170a427a67"
+        }
+      },
+      {
+        "Id": 996,
+        "Type": "Mesh",
+        "EntryOffset": 25008,
+        "Offset": 155368944,
+        "Size": 8608,
+        "Sha256": "efbb3e57f57b5234bb669648c262ebe518445cb1693091b00a57d8369d471aea",
+        "Stream": {
+          "FieldOffset": 8536,
+          "SourceFile": "sharedassets13.assets.resS",
+          "Offset": 2142148064,
+          "Size": 39168,
+          "Sha256": "320baf0b59d6016bccbae97d1e4d5a175038112cd5baf7b4faa126e654621d5a"
+        }
+      },
+      {
+        "Id": 1012,
+        "Type": "Mesh",
+        "EntryOffset": 25392,
+        "Offset": 156178304,
+        "Size": 6220,
+        "Sha256": "c8ab3abd81eb36aed536c293d66ea8212f251c137abdcb7a05a0d67cd2b9b2ec",
+        "Stream": {
+          "FieldOffset": 6148,
+          "SourceFile": "sharedassets13.assets.resS",
+          "Offset": 2143035248,
+          "Size": 30628,
+          "Sha256": "70fbcc967961c4247bac58a9ce3e19458c2295e72f1aad938a160d3d5a82b4f9"
+        }
+      }
+    ],
+    "ExternalTableOffset": 31576,
+    "ExternalTableSize": 521
+  },
+  {
+    "SourceFile": "sharedassets19.assets",
+    "SourceSize": 367687364,
+    "MetadataSize": 45723,
+    "MetadataSha256": "c73835e0415424938f62e292eaaa191358ee3fd4e0804aa3e401bf431be4b86f",
+    "CountOffset": 1278,
+    "TableOffset": 1284,
+    "TableCount": 1805,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Library/unity default resources",
+      "resources.assets",
+      "sharedassets0.assets",
+      "sharedassets1.assets",
+      "sharedassets2.assets",
+      "sharedassets3.assets",
+      "sharedassets4.assets",
+      "sharedassets5.assets",
+      "sharedassets6.assets",
+      "sharedassets7.assets",
+      "sharedassets8.assets",
+      "sharedassets9.assets",
+      "sharedassets11.assets",
+      "sharedassets12.assets",
+      "sharedassets13.assets",
+      "sharedassets14.assets",
+      "sharedassets15.assets",
+      "sharedassets16.assets",
+      "sharedassets17.assets",
+      "sharedassets18.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 389,
+        "Type": "Texture2D",
+        "EntryOffset": 10596,
+        "Offset": 167200944,
+        "Size": 148,
+        "Sha256": "64c33bf065870b74b9b9a63be53b1927c1944ca8a0acb0859915e98790eb8814",
+        "Stream": {
+          "FieldOffset": 104,
+          "SourceFile": "sharedassets19.assets.resS",
+          "Offset": 481212448,
+          "Size": 699064,
+          "Sha256": "abf05e0436411d59bd0a07adb912043512fa9402d371914c95b651351f45dc5d"
+        }
+      },
+      {
+        "Id": 493,
+        "Type": "Texture2D",
+        "EntryOffset": 13092,
+        "Offset": 167218352,
+        "Size": 148,
+        "Sha256": "1959c5c9478ad83af69d7fa50fcd7314928568132f2edb47b27a6d484dc4c926",
+        "Stream": {
+          "FieldOffset": 104,
+          "SourceFile": "sharedassets19.assets.resS",
+          "Offset": 871372752,
+          "Size": 699064,
+          "Sha256": "570faa985cf0e3544639aefc1d973ba0b3d544b504a51362b561741745ae500d"
+        }
+      },
+      {
+        "Id": 622,
+        "Type": "Texture2D",
+        "EntryOffset": 16188,
+        "Offset": 167239888,
+        "Size": 148,
+        "Sha256": "12923e3b7d2dcd4b30f423ba7b4ccf684565b110451d3c1c21a7a95f5fd3ba16",
+        "Stream": {
+          "FieldOffset": 104,
+          "SourceFile": "sharedassets19.assets.resS",
+          "Offset": 1295350304,
+          "Size": 1398128,
+          "Sha256": "41c6df9d0b8468e25cde0ba5656d0c10550a12f2768b8e385baee33e1e9499d1"
+        }
+      },
+      {
+        "Id": 688,
+        "Type": "Texture2D",
+        "EntryOffset": 17772,
+        "Offset": 167250896,
+        "Size": 156,
+        "Sha256": "07eef333f8656ffd53da7245bf08d50edcf2aa1d8422d7f820b01d66ec384ba1",
+        "Stream": {
+          "FieldOffset": 112,
+          "SourceFile": "sharedassets19.assets.resS",
+          "Offset": 1616653104,
+          "Size": 349552,
+          "Sha256": "04cf59ee22b3d6730515affb009d733923625918c60c60ee426d2a5f86239b49"
+        }
+      },
+      {
+        "Id": 903,
+        "Type": "Mesh",
+        "EntryOffset": 22932,
+        "Offset": 238772736,
+        "Size": 8368,
+        "Sha256": "7f3c353feff39aa5cc87e2e95f035c3332df52a3d6ef2f2a958a9944769e6ce8",
+        "Stream": {
+          "FieldOffset": 8296,
+          "SourceFile": "sharedassets19.assets.resS",
+          "Offset": 2281445488,
+          "Size": 15048,
+          "Sha256": "6fd5782ba272e00f93cd589537039c16a6b7f30ac3f5028245b0ebd688ea44b6"
+        }
+      }
+    ],
+    "ExternalTableOffset": 44860,
+    "ExternalTableSize": 906
+  },
+  {
+    "SourceFile": "sharedassets2.assets",
+    "SourceSize": 88159752,
+    "MetadataSize": 456527,
+    "MetadataSha256": "039c68ba1cfad3a808986d3d4dde4d2702f642340fa09975572bb8e1ced9d442",
+    "CountOffset": 5301,
+    "TableOffset": 5308,
+    "TableCount": 18738,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Library/unity default resources",
+      "resources.assets",
+      "sharedassets0.assets",
+      "sharedassets1.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 663,
+        "Type": "Texture2D",
+        "EntryOffset": 21196,
+        "Offset": 14209536,
+        "Size": 164,
+        "Sha256": "6991d2ac2d6a97b28c47161035f5ca24c225973f0d40823176bd9fbe2b1f85ba",
+        "Stream": {
+          "FieldOffset": 120,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 603175808,
+          "Size": 5592432,
+          "Sha256": "6c0d5ebdcffe6a63e36437a3008121bc88f094f9c74b39f3cd1f13792ff4c1fb"
+        }
+      },
+      {
+        "Id": 881,
+        "Type": "Texture2D",
+        "EntryOffset": 26428,
+        "Offset": 36965760,
+        "Size": 160,
+        "Sha256": "b13ee78837e83f694d47612ed1ec71d1afe5f149572e3f362e084d6ab62732f2",
+        "Stream": {
+          "FieldOffset": 116,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 1056011776,
+          "Size": 1398128,
+          "Sha256": "cb84be9b6baa6117db4e9df1b1b8f52481769ad969108d754de29caed17cd337"
+        }
+      },
+      {
+        "Id": 955,
+        "Type": "Texture2D",
+        "EntryOffset": 28204,
+        "Offset": 37677520,
+        "Size": 160,
+        "Sha256": "feeba0a5a7e01b741e2da18f51ee5c09752e80227c5239b64a7c39b6e68f41d3",
+        "Stream": {
+          "FieldOffset": 116,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 1239390560,
+          "Size": 5592432,
+          "Sha256": "bbb4ce75ca497bad18dcc9b9d8f7305a964ba31d259c8e15ff3f367abe381b5f"
+        }
+      },
+      {
+        "Id": 1110,
+        "Type": "Texture2D",
+        "EntryOffset": 31924,
+        "Offset": 54830672,
+        "Size": 160,
+        "Sha256": "c96d4d2fd54707900c78816e40afa6fb856a0a4a36742c12b71ffa8d59e62907",
+        "Stream": {
+          "FieldOffset": 116,
+          "SourceFile": "sharedassets2.assets.resS",
+          "Offset": 1562925648,
+          "Size": 349552,
+          "Sha256": "0b2a9d2f05a761f37ab64443b4eb2d6c599572971926f3286ccf75badc7a14de"
+        }
+      }
+    ],
+    "ExternalTableOffset": 456344,
+    "ExternalTableSize": 226
+  },
+  {
+    "SourceFile": "sharedassets30.assets",
+    "SourceSize": 64816244,
+    "MetadataSize": 11453,
+    "MetadataSha256": "2825b2a375612b46da71f70fb1f75fb53f0bb84ba97a4144e9566c94c3f80f78",
+    "CountOffset": 782,
+    "TableOffset": 788,
+    "TableCount": 405,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Library/unity default resources",
+      "sharedassets0.assets",
+      "sharedassets1.assets",
+      "sharedassets2.assets",
+      "sharedassets3.assets",
+      "sharedassets4.assets",
+      "sharedassets6.assets",
+      "sharedassets9.assets",
+      "sharedassets13.assets",
+      "sharedassets16.assets",
+      "sharedassets17.assets",
+      "sharedassets18.assets",
+      "sharedassets19.assets",
+      "sharedassets20.assets",
+      "sharedassets21.assets",
+      "sharedassets22.assets",
+      "sharedassets26.assets",
+      "sharedassets27.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 151,
+        "Type": "Texture2D",
+        "EntryOffset": 4388,
+        "Offset": 37185776,
+        "Size": 164,
+        "Sha256": "fa7951d1800f0582d6e8acc0b905a8e70456786b343eea739dad21cc04ec909e",
+        "Stream": {
+          "FieldOffset": 120,
+          "SourceFile": "sharedassets30.assets.resS",
+          "Offset": 191716240,
+          "Size": 699064,
+          "Sha256": "5b0007864714ce90884f83b2e58b9e66668a588588c7ab7a29bd5388a19b78b6"
+        }
+      },
+      {
+        "Id": 165,
+        "Type": "Texture2D",
+        "EntryOffset": 4724,
+        "Offset": 37188160,
+        "Size": 164,
+        "Sha256": "f464a530e1313ef206cf1381a8c71a4569c848633327f2e7e6802fff290b6ef9",
+        "Stream": {
+          "FieldOffset": 120,
+          "SourceFile": "sharedassets30.assets.resS",
+          "Offset": 235756784,
+          "Size": 699064,
+          "Sha256": "cf0513ad877ff87a48b31c3edc60fbf543944c8006976e58d651c176481444c8"
+        }
+      },
+      {
+        "Id": 191,
+        "Type": "Texture2D",
+        "EntryOffset": 5348,
+        "Offset": 37192640,
+        "Size": 160,
+        "Sha256": "e3c13b1092167d381e7f77c8d4ef7b1bb2cff5bda1fdd09fbe362e928d502326",
+        "Stream": {
+          "FieldOffset": 116,
+          "SourceFile": "sharedassets30.assets.resS",
+          "Offset": 344110256,
+          "Size": 1398128,
+          "Sha256": "24d58cb06534e0961f476f60c3e8396d0f22e27b575c598899b48494766c4cda"
+        }
+      },
+      {
+        "Id": 219,
+        "Type": "Texture2D",
+        "EntryOffset": 6020,
+        "Offset": 37197424,
+        "Size": 164,
+        "Sha256": "687edd1fa273a21627953914a46a1f8ccead86d9afdd815c7152aa1e4b59cb27",
+        "Stream": {
+          "FieldOffset": 120,
+          "SourceFile": "sharedassets30.assets.resS",
+          "Offset": 429744656,
+          "Size": 349552,
+          "Sha256": "55b84fc188ce6a9ed247ce45db28903c88a0f7622a1aa354bcef234e55da6a11"
+        }
+      },
+      {
+        "Id": 334,
+        "Type": "Mesh",
+        "EntryOffset": 8780,
+        "Offset": 41721744,
+        "Size": 9360,
+        "Sha256": "5675ed7d722955746eca780c01ab202efd1e03e4fcdbff4d601440d67e41ccac",
+        "Stream": {
+          "FieldOffset": 9288,
+          "SourceFile": "sharedassets30.assets.resS",
+          "Offset": 773029216,
+          "Size": 45500,
+          "Sha256": "52ebbe83112dcebdaf24f0a4b9d744454ecbd0a009f4b6384d05c1414cbc7e82"
+        }
+      }
+    ],
+    "ExternalTableOffset": 10668,
+    "ExternalTableSize": 828
+  },
+  {
+    "SourceFile": "sharedassets4.assets",
+    "SourceSize": 472950388,
+    "MetadataSize": 38999,
+    "MetadataSha256": "91a1d814f4ad506cda1025f5cf27a92baabe56bce9b6472f083840d155562d8d",
+    "CountOffset": 1751,
+    "TableOffset": 1756,
+    "TableCount": 1526,
+    "Dependencies": [
+      "globalgamemanagers.assets",
+      "Library/unity default resources",
+      "resources.assets",
+      "sharedassets0.assets",
+      "sharedassets1.assets",
+      "sharedassets2.assets",
+      "sharedassets3.assets"
+    ],
+    "Objects": [
+      {
+        "Id": 623,
+        "Type": "Mesh",
+        "EntryOffset": 16684,
+        "Offset": 318293008,
+        "Size": 64164,
+        "Sha256": "2f8fdeb9f0cf1f12bc06d14deb72a415500f6151cf93fba0e0e4042c3b6a7f86",
+        "Stream": null
+      }
+    ],
+    "ExternalTableOffset": 38732,
+    "ExternalTableSize": 310
+  }
+]
