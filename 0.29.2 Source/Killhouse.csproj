@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Retain these sources only for historical fixture tests. The withdrawn
+       LOD repair, native callback bridge and scene scanners are not shipped. -->
+  <ItemGroup><Compile Remove="NativeInitialLod.cs;TrainingInitialLod.cs;NativeLodOwnership.cs;TrainingLodRepair.cs;Core/InitialLodMemoryRepair.cs" /></ItemGroup>
+  <PropertyGroup><TargetFramework>net6.0</TargetFramework><Nullable>enable</Nullable><AllowUnsafeBlocks>true</AllowUnsafeBlocks><ImplicitUsings>enable</ImplicitUsings><AssemblyName>OperatorKillhouse</AssemblyName><GameDir Condition="'$(GameDir)'==''">$(OPERATOR_GAME_DIR)</GameDir></PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="NativeBreakerMaterial.json" LogicalName="OperatorKillhouse.NativeBreakerMaterial.json" />
+    <EmbeddedResource Include="NativeFixturePlans.json" LogicalName="OperatorKillhouse.NativeFixturePlans.json" /><EmbeddedResource Include="NativeFixtureRecipe.json" LogicalName="OperatorKillhouse.NativeFixtureRecipe.json" />
+    <EmbeddedResource Include="NativeGearPlan.json" LogicalName="OperatorKillhouse.NativeGearPlan.json" />
+    <EmbeddedResource Include="NativeSsePlans.json" LogicalName="OperatorKillhouse.NativeSsePlans.json" /><EmbeddedResource Include="NativeSseRecipe.json" LogicalName="OperatorKillhouse.NativeSseRecipe.json" />
+    <EmbeddedResource Include="NativeBreakerPlan.json" LogicalName="OperatorKillhouse.NativeBreakerPlan.json" /><EmbeddedResource Include="NativeBreakerRecipe.json" LogicalName="OperatorKillhouse.NativeBreakerRecipe.json" /><EmbeddedResource Include="NativeBreakerAnimationPlan.json" LogicalName="OperatorKillhouse.NativeBreakerAnimationPlan.json" />
+    <Reference Include="BepInEx.Core"><HintPath>$(GameDir)/BepInEx/core/BepInEx.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx.Unity.IL2CPP"><HintPath>$(GameDir)/BepInEx/core/BepInEx.Unity.IL2CPP.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(GameDir)/BepInEx/core/0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Il2CppInterop.Runtime"><HintPath>$(GameDir)/BepInEx/core/Il2CppInterop.Runtime.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="$(GameDir)/BepInEx/interop/*.dll" Private="false" />
+    <Compile Include="../../ModControls/sdk/ModControlsBridge.cs" Link="ModControlsBridge.cs" />
+  </ItemGroup>
+  <Target Name="CheckReferences" BeforeTargets="ResolveAssemblyReferences"><Error Condition="!Exists('$(GameDir)/BepInEx/interop/Assembly-CSharp.dll')" Text="Provide GameDir with generated BepInEx references." /></Target>
+</Project>

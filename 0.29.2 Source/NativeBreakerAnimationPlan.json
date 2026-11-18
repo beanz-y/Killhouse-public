@@ -1,0 +1,42 @@
+{
+  "SourceFile": "sharedassets10.assets",
+  "SourceSize": 245236,
+  "MetadataSize": 3163,
+  "MetadataSha256": "b3a8215d8c6a61514ad0131a6c05026eb32ecf57963b61769a10706ef65c3b50",
+  "CountOffset": 915,
+  "TableOffset": 920,
+  "TableCount": 70,
+  "Dependencies": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "sharedassets0.assets",
+    "sharedassets1.assets",
+    "sharedassets2.assets",
+    "sharedassets3.assets",
+    "sharedassets4.assets",
+    "sharedassets5.assets",
+    "sharedassets9.assets"
+  ],
+  "Objects": [
+    {
+      "Id": 24,
+      "Type": "AnimationClip",
+      "EntryOffset": 1472,
+      "Offset": 197840,
+      "Size": 23432,
+      "Sha256": "1b2e0c5b27e14d47ab7a3c074ae480acfc95d94895f9a636aa3e2b1929156128",
+      "Stream": null
+    },
+    {
+      "Id": 52,
+      "Type": "AnimatorController",
+      "EntryOffset": 2144,
+      "Offset": 227632,
+      "Size": 528,
+      "Sha256": "7d8f36d0877daa3c01656767ded70aa8156716717173be5d202e7c22648c9ee3",
+      "Stream": null
+    }
+  ],
+  "ExternalTableOffset": 2808,
+  "ExternalTableSize": 398
+}
