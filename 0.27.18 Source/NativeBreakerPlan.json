@@ -1,0 +1,142 @@
+{
+  "SourceFile": "sharedassets9.assets",
+  "SourceSize": 33341596,
+  "MetadataSize": 19723,
+  "MetadataSha256": "49bbdfbfe8e35d467579e0018791d441d7d509b535cfc1c8fd7c60854d1c2c65",
+  "CountOffset": 1179,
+  "TableOffset": 1184,
+  "TableCount": 750,
+  "Dependencies": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "sharedassets0.assets",
+    "sharedassets1.assets",
+    "sharedassets2.assets",
+    "sharedassets3.assets",
+    "sharedassets4.assets"
+  ],
+  "Objects": [
+    {
+      "Id": 151,
+      "Type": "Texture2D",
+      "EntryOffset": 4784,
+      "Offset": 525440,
+      "Size": 176,
+      "Sha256": "253e70c0e8cf54a1dade406fa72a5014673f26e6a6eb269cf6b43877e5a5339c",
+      "Stream": {
+        "FieldOffset": 132,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 685989312,
+        "Size": 2796216,
+        "Sha256": "5fcbac3fe828de24d472e2ac07c9e3759f8e86c8f558b7f20891807bbe162901"
+      }
+    },
+    {
+      "Id": 179,
+      "Type": "Texture2D",
+      "EntryOffset": 5456,
+      "Offset": 530112,
+      "Size": 176,
+      "Sha256": "ae00457175da27b8aeda828404c7cc1890f46523b9be949a5f337a0290f09c6f",
+      "Stream": {
+        "FieldOffset": 132,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 875804144,
+        "Size": 5592432,
+        "Sha256": "aad062eff9666605f60bcf1ddb6cbddde8d8e258222aee48f2d83e9c8957dd2a"
+      }
+    },
+    {
+      "Id": 195,
+      "Type": "Texture2D",
+      "EntryOffset": 5840,
+      "Offset": 532768,
+      "Size": 176,
+      "Sha256": "f25154a1259ff5a02a00cd109a21e35bedf7d9c6e9c8ec8f7b693a4a5a9373d1",
+      "Stream": {
+        "FieldOffset": 132,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 965807328,
+        "Size": 5592432,
+        "Sha256": "c3a9665748a71c47d5df0a3ba710de239163129ed9a561cf29561c7d84a9f2e0"
+      }
+    },
+    {
+      "Id": 237,
+      "Type": "Texture2D",
+      "EntryOffset": 6848,
+      "Offset": 539680,
+      "Size": 180,
+      "Sha256": "57f6550a842c2ac207da9054f0795b7dfe5e117c398d50cb8ac38f0621f5cda5",
+      "Stream": {
+        "FieldOffset": 136,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 1311314208,
+        "Size": 2796216,
+        "Sha256": "d117ebc275633755e64e346051f2a83bd948b13dcaaca4823a2d982120449fa5"
+      }
+    },
+    {
+      "Id": 446,
+      "Type": "Mesh",
+      "EntryOffset": 11864,
+      "Offset": 11024848,
+      "Size": 4956,
+      "Sha256": "efd20f96a06d299cd16611a1ab48d944c9caa48d0e2127c2ca475ff6778dae4d",
+      "Stream": {
+        "FieldOffset": 4884,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 1440525440,
+        "Size": 21060,
+        "Sha256": "7edf9c04c6c4d8ffc5502f26bd3b61a92b284659403540a685c5dc9b1cf22f00"
+      }
+    },
+    {
+      "Id": 473,
+      "Type": "Mesh",
+      "EntryOffset": 12512,
+      "Offset": 19430560,
+      "Size": 114000,
+      "Sha256": "202c886aa9955758f7a763d473f3273d5924228889ed0ed2e13f23f0c6b0e5c4",
+      "Stream": {
+        "FieldOffset": 113928,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 1447370608,
+        "Size": 521964,
+        "Sha256": "b884186a7d98e7c4b2a22a3ae733143fc06e727703fe3ad96c6986a6b2895e85"
+      }
+    },
+    {
+      "Id": 571,
+      "Type": "Mesh",
+      "EntryOffset": 14864,
+      "Offset": 29332480,
+      "Size": 11144,
+      "Sha256": "5874e0f3063163c9cd3463c48b7cccead6da935de7346523172a82ffc4e466fa",
+      "Stream": {
+        "FieldOffset": 11072,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 1459202848,
+        "Size": 56736,
+        "Sha256": "e9420a6793ed64471767690243bbdb8e1f4bf323d2647943a6e99231b574a380"
+      }
+    },
+    {
+      "Id": 622,
+      "Type": "Mesh",
+      "EntryOffset": 16088,
+      "Offset": 30987968,
+      "Size": 9108,
+      "Sha256": "cfd4195e82e7df2985af06e84590fe4ed9fa2472ab34059ccbc319087df49101",
+      "Stream": {
+        "FieldOffset": 9036,
+        "SourceFile": "sharedassets9.assets.resS",
+        "Offset": 1461970224,
+        "Size": 39240,
+        "Sha256": "cd973e515e87208deba95cf2ba92c556075b6fd2b5616d6bb879d8575cf69c68"
+      }
+    }
+  ],
+  "ExternalTableOffset": 19452,
+  "ExternalTableSize": 314
+}

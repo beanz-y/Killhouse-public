@@ -1,0 +1,3019 @@
+{
+  "Models": [
+    {
+      "Name": "SSE Thumbdrive",
+      "Nodes": [
+        {
+          "Name": "Thumbdrive_4",
+          "Parent": -1,
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            -0.0,
+            0.1593628227710724,
+            -0.0,
+            0.9872201085090637
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Collider",
+          "Parent": 0,
+          "Position": [
+            -0.0,
+            0.01600000075995922,
+            0.005200000014156103
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            0.08283562958240509,
+            0.08283562958240509,
+            0.08283562958240509
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "pendrive_low",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            -0.5000001788139343,
+            -0.4999999403953552,
+            -0.5,
+            0.49999988079071045
+          ],
+          "Scale": [
+            100.0,
+            100.0,
+            100.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3908
+          },
+          "Materials": [
+            "sharedassets2.assets:281"
+          ]
+        },
+        {
+          "Name": "pendrivehandle_low",
+          "Parent": 2,
+          "Position": [
+            -4.884654481429607e-05,
+            1.3411044497146918e-09,
+            4.208087887036527e-07
+          ],
+          "Rotation": [
+            -7.450580596923828e-08,
+            4.470348358154297e-08,
+            0.9992715120315552,
+            -0.03816491365432739
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3959
+          },
+          "Materials": [
+            "sharedassets1.assets:191"
+          ]
+        }
+      ],
+      "Bounds": [
+        -0.019412022886951687,
+        -0.0051344526440596245,
+        -0.028993795128490818,
+        0.021736565784663348,
+        0.005218621409690962,
+        0.03270554590363696
+      ]
+    },
+    {
+      "Name": "SSE SIM cards",
+      "Nodes": [
+        {
+          "Name": "Simcards_2",
+          "Parent": -1,
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            -0.5000001192092896,
+            -0.5,
+            -0.5000002384185791,
+            0.49999961256980896
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Collider",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            0.19389000535011292,
+            0.19389000535011292,
+            0.19389000535011292
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "simcard_2_low",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            -0.0,
+            -0.0,
+            -0.0,
+            1.0
+          ],
+          "Scale": [
+            100.0,
+            100.0,
+            100.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3944
+          },
+          "Materials": [
+            "sharedassets2.assets:282"
+          ]
+        },
+        {
+          "Name": "simcard_3_low",
+          "Parent": 0,
+          "Position": [
+            0.023000000044703484,
+            -0.0560000017285347,
+            -0.0
+          ],
+          "Rotation": [
+            -0.0,
+            -0.0,
+            0.14550715684890747,
+            0.9893572330474854
+          ],
+          "Scale": [
+            100.0,
+            100.0,
+            100.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 4008
+          },
+          "Materials": [
+            "sharedassets2.assets:282"
+          ]
+        },
+        {
+          "Name": "simcard_low",
+          "Parent": 0,
+          "Position": [
+            0.04650000110268593,
+            -0.01860000006854534,
+            -0.0
+          ],
+          "Rotation": [
+            5.960465188081798e-08,
+            -0.0,
+            0.9092332124710083,
+            0.41628724336624146
+          ],
+          "Scale": [
+            100.0,
+            100.0,
+            100.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3992
+          },
+          "Materials": [
+            "sharedassets2.assets:282"
+          ]
+        }
+      ],
+      "Bounds": [
+        -0.06678138576929235,
+        -0.0003600649032212533,
+        -0.01250000410683088,
+        0.007500006361441045,
+        0.0003601087625211221,
+        0.060345146954373735
+      ]
+    },
+    {
+      "Name": "SSE Phone",
+      "Nodes": [
+        {
+          "Name": "Cell Phone_2",
+          "Parent": -1,
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            -0.0,
+            -0.402588814496994,
+            -0.0,
+            0.9153809547424316
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Collider",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.04800000041723251,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            0.14179176092147827,
+            0.14179176092147827,
+            0.14179176092147827
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "smartphone_low",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            -0.5000002384185791,
+            -0.4999999403953552,
+            -0.5,
+            0.49999988079071045
+          ],
+          "Scale": [
+            99.99996185302734,
+            99.9999771118164,
+            99.99998474121094
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3970
+          },
+          "Materials": [
+            "sharedassets2.assets:281"
+          ]
+        }
+      ],
+      "Bounds": [
+        -0.08657443275117245,
+        -0.004375042382338192,
+        -0.08396120511455746,
+        0.08657443275117245,
+        0.004375042382338192,
+        0.08396120511455746
+      ]
+    },
+    {
+      "Name": "SSE Folder",
+      "Nodes": [
+        {
+          "Name": "Blue Folder_1",
+          "Parent": -1,
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            -0.0,
+            -0.9934573769569397,
+            -0.0,
+            -0.11420385539531708
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Collider",
+          "Parent": 0,
+          "Position": [
+            -0.0,
+            0.02370000071823597,
+            0.005200000014156103
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            0.23452500998973846,
+            0.05530807375907898,
+            0.2972646653652191
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Folder_A",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets2.assets",
+            "Id": 1780
+          },
+          "Materials": [
+            "sharedassets2.assets:146"
+          ]
+        }
+      ],
+      "Bounds": [
+        -0.1494887322230596,
+        0.0,
+        -0.18082012460180708,
+        0.14948869594189412,
+        0.046044159680604935,
+        0.180820116148627
+      ]
+    },
+    {
+      "Name": "SSE Encrypted radio",
+      "Nodes": [
+        {
+          "Name": "Encrypted Walkie Talkie_1",
+          "Parent": -1,
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            0.07744591683149338,
+            0.7341160774230957,
+            -0.6681220531463623,
+            0.09321320801973343
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "SM_WalkieTalkie_251",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "SM_WalkieTalkie_LOD0",
+          "Parent": 1,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3887
+          },
+          "Materials": [
+            "sharedassets1.assets:144"
+          ]
+        },
+        {
+          "Name": "SM_WalkieTalkie_LOD1",
+          "Parent": 1,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3885
+          },
+          "Materials": [
+            "sharedassets1.assets:144"
+          ]
+        },
+        {
+          "Name": "SM_WalkieTalkie_LOD2",
+          "Parent": 1,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3882
+          },
+          "Materials": [
+            "sharedassets1.assets:144"
+          ]
+        },
+        {
+          "Name": "SM_WalkieTalkie_LOD3",
+          "Parent": 1,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3891
+          },
+          "Materials": [
+            "sharedassets1.assets:144"
+          ]
+        },
+        {
+          "Name": "SM_WalkieTalkie_Collider",
+          "Parent": 1,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Cube",
+          "Parent": 0,
+          "Position": [
+            -0.0,
+            0.03392000123858452,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            0.07762998342514038,
+            0.3438595235347748,
+            0.11610999703407288
+          ],
+          "Mesh": null,
+          "Materials": []
+        }
+      ],
+      "Bounds": [
+        -0.062224246160291624,
+        -0.05593885399989551,
+        -0.45612723568186336,
+        0.1472977087043847,
+        0.06405762974946226,
+        0.12197190967725408
+      ]
+    },
+    {
+      "Name": "SSE Hard drive",
+      "Nodes": [
+        {
+          "Name": "Hard Drive_8",
+          "Parent": -1,
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            -0.0,
+            -0.9994528293609619,
+            -0.0,
+            0.03307615593075752
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Collider",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            0.17268000543117523,
+            0.17268000543117523,
+            0.17268000543117523
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Hard drive",
+          "Parent": 0,
+          "Position": [
+            0.00390625,
+            0.0002899169921875,
+            -0.00749969482421875
+          ],
+          "Rotation": [
+            -0.0,
+            -0.0,
+            -0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "storage 6_1",
+          "Parent": 2,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            -0.0,
+            -0.0,
+            -1.0,
+            2.1755693069280824e-06
+          ],
+          "Scale": [
+            0.20000000298023224,
+            0.20000000298023224,
+            0.20000000298023224
+          ],
+          "Mesh": {
+            "File": "sharedassets1.assets",
+            "Id": 3927
+          },
+          "Materials": [
+            "sharedassets1.assets:155"
+          ]
+        }
+      ],
+      "Bounds": [
+        -0.0796018081089438,
+        0.00028959749949165024,
+        -0.09786040858229814,
+        0.07279820884192086,
+        0.024464117958631456,
+        0.11334350350587255
+      ]
+    },
+    {
+      "Name": "SSE Laptop",
+      "Nodes": [
+        {
+          "Name": "Laptop_1",
+          "Parent": -1,
+          "Position": [
+            0,
+            0,
+            0
+          ],
+          "Rotation": [
+            -0.0,
+            0.6996632218360901,
+            -0.0,
+            0.7144728899002075
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "Collider",
+          "Parent": 0,
+          "Position": [
+            -0.0,
+            0.02370000071823597,
+            0.005200000014156103
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            0.23452500998973846,
+            0.05530807375907898,
+            0.2972646653652191
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "LaptopClosed",
+          "Parent": 0,
+          "Position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": null,
+          "Materials": []
+        },
+        {
+          "Name": "LaptopClosed_LOD0",
+          "Parent": 2,
+          "Position": [
+            -0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            2.1855694143368964e-08,
+            0.0,
+            -0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets27.assets",
+            "Id": 674
+          },
+          "Materials": [
+            "sharedassets1.assets:139"
+          ]
+        },
+        {
+          "Name": "LaptopOpen_LOD1",
+          "Parent": 2,
+          "Position": [
+            -0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation": [
+            2.1855694143368964e-08,
+            0.0,
+            -0.0,
+            1.0
+          ],
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Mesh": {
+            "File": "sharedassets27.assets",
+            "Id": 688
+          },
+          "Materials": [
+            "sharedassets1.assets:139"
+          ]
+        }
+      ],
+      "Bounds": [
+        -0.1379187948143652,
+        -2.4451108535822467e-08,
+        -0.1992598950192346,
+        0.1373386675476867,
+        0.024989644327584788,
+        0.199247593849781
+      ]
+    }
+  ],
+  "Materials": [
+    {
+      "Key": "sharedassets2.assets:281",
+      "Name": "intelset",
+      "Keywords": [
+        "_DISABLE_SSR_TRANSPARENT",
+        "_MASKMAP",
+        "_NORMALMAP",
+        "_NORMALMAP_TANGENT_SPACE"
+      ],
+      "Floats": {
+        "_AORemapMax": 1.0,
+        "_AORemapMin": 0.0,
+        "_ATDistance": 1.0,
+        "_AddPrecomputedVelocity": 0.0,
+        "_AlbedoAffectEmissive": 0.0,
+        "_AlphaCutoff": 0.5,
+        "_AlphaCutoffEnable": 0.0,
+        "_AlphaCutoffPostpass": 0.5,
+        "_AlphaCutoffPrepass": 0.5,
+        "_AlphaCutoffShadow": 0.5,
+        "_AlphaDstBlend": 0.0,
+        "_AlphaRemapMax": 1.0,
+        "_AlphaRemapMin": 0.0,
+        "_AlphaSrcBlend": 1.0,
+        "_Anisotropy": 0.0,
+        "_BlendMode": 0.0,
+        "_BumpScale": 1.0,
+        "_CoatMask": 0.0,
+        "_CullMode": 2.0,
+        "_CullModeForward": 2.0,
+        "_Cutoff": 0.5,
+        "_DepthOffsetEnable": 0.0,
+        "_DetailAlbedoScale": 1.0,
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalScale": 1.0,
+        "_DetailSmoothnessScale": 1.0,
+        "_DiffusionProfile": 0.0,
+        "_DiffusionProfileHash": 0.0,
+        "_DisplacementLockObjectScale": 1.0,
+        "_DisplacementLockTilingScale": 1.0,
+        "_DisplacementMode": 0.0,
+        "_DoubleSidedEnable": 0.0,
+        "_DoubleSidedGIMode": 0.0,
+        "_DoubleSidedNormalMode": 1.0,
+        "_DstBlend": 0.0,
+        "_DstBlend2": 0.0,
+        "_EmissiveColorMode": 1.0,
+        "_EmissiveExposureWeight": 1.0,
+        "_EmissiveIntensity": 1.0,
+        "_EmissiveIntensityUnit": 0.0,
+        "_EnableBlendModePreserveSpecularLighting": 1.0,
+        "_EnableFogOnTransparent": 1.0,
+        "_EnableGeometricSpecularAA": 0.0,
+        "_EnergyConservingSpecularColor": 1.0,
+        "_GlossMapScale": 1.0,
+        "_Glossiness": 0.5,
+        "_GlossyReflections": 1.0,
+        "_HeightAmplitude": 0.019999999552965164,
+        "_HeightCenter": 0.5,
+        "_HeightMapParametrization": 0.0,
+        "_HeightMax": 1.0,
+        "_HeightMin": -1.0,
+        "_HeightOffset": 0.0,
+        "_HeightPoMAmplitude": 2.0,
+        "_HeightTessAmplitude": 2.0,
+        "_HeightTessCenter": 0.5,
+        "_InvTilingScale": 1.0,
+        "_Ior": 1.5,
+        "_IridescenceMask": 1.0,
+        "_IridescenceThickness": 1.0,
+        "_LinkDetailsWithBase": 1.0,
+        "_MaterialID": 1.0,
+        "_Metallic": 0.0,
+        "_MetallicRemapMax": 1.0,
+        "_MetallicRemapMin": 0.0,
+        "_Mode": 0.0,
+        "_NormalMapSpace": 0.0,
+        "_NormalScale": 1.0,
+        "_ObjectSpaceUVMapping": 0.0,
+        "_ObjectSpaceUVMappingEmissive": 0.0,
+        "_OcclusionStrength": 1.0,
+        "_OpaqueCullMode": 2.0,
+        "_PPDLodThreshold": 5.0,
+        "_PPDMaxSamples": 15.0,
+        "_PPDMinSamples": 5.0,
+        "_PPDPrimitiveLength": 1.0,
+        "_PPDPrimitiveWidth": 1.0,
+        "_Parallax": 0.019999999552965164,
+        "_PerPixelSorting": 0.0,
+        "_RayTracing": 0.0,
+        "_ReceivesSSR": 1.0,
+        "_ReceivesSSRTransparent": 0.0,
+        "_RefractionModel": 0.0,
+        "_Smoothness": 0.5,
+        "_SmoothnessRemapMax": 1.0,
+        "_SmoothnessRemapMin": 0.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_SpecularAAScreenSpaceVariance": 0.10000000149011612,
+        "_SpecularAAThreshold": 0.20000000298023224,
+        "_SpecularHighlights": 1.0,
+        "_SpecularOcclusionMode": 1.0,
+        "_SrcBlend": 1.0,
+        "_StencilRef": 0.0,
+        "_StencilRefDepth": 8.0,
+        "_StencilRefGBuffer": 10.0,
+        "_StencilRefMV": 40.0,
+        "_StencilWriteMask": 6.0,
+        "_StencilWriteMaskDepth": 9.0,
+        "_StencilWriteMaskGBuffer": 15.0,
+        "_StencilWriteMaskMV": 41.0,
+        "_SubsurfaceMask": 1.0,
+        "_SupportDecals": 1.0,
+        "_SurfaceType": 0.0,
+        "_TexWorldScale": 1.0,
+        "_TexWorldScaleEmissive": 1.0,
+        "_Thickness": 1.0,
+        "_TransmissionEnable": 1.0,
+        "_TransmissionMask": 1.0,
+        "_TransparentBackfaceEnable": 0.0,
+        "_TransparentCullMode": 2.0,
+        "_TransparentDepthPostpassEnable": 0.0,
+        "_TransparentDepthPrepassEnable": 0.0,
+        "_TransparentSortPriority": 0.0,
+        "_TransparentWritingMotionVec": 0.0,
+        "_TransparentZWrite": 0.0,
+        "_UVBase": 0.0,
+        "_UVDetail": 0.0,
+        "_UVEmissive": 0.0,
+        "_UVSec": 0.0,
+        "_UseEmissiveIntensity": 0.0,
+        "_UseShadowThreshold": 0.0,
+        "_ZTestDepthEqualForOpaque": 3.0,
+        "_ZTestGBuffer": 4.0,
+        "_ZTestTransparent": 4.0,
+        "_ZWrite": 1.0
+      },
+      "Colors": {
+        "_BaseColor": [
+          0.9063317179679871,
+          0.9063317179679871,
+          0.9063317179679871,
+          1.0
+        ],
+        "_Color": [
+          0.9063317179679871,
+          0.9063317179679871,
+          0.9063317179679871,
+          1.0
+        ],
+        "_DiffusionProfileAsset": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_DoubleSidedConstants": [
+          1.0,
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "_EmissionColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_EmissiveColor": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_EmissiveColorLDR": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_InvPrimScale": [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_IridescenceThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_SpecularColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_ThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_TransmittanceColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_UVDetailsMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMaskEmissive": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Textures": [
+        {
+          "Name": "_BaseColorMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 549
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MainTex",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 549
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MaskMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 1108
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_NormalMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 649
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "Key": "sharedassets1.assets:191",
+      "Name": "intelset",
+      "Keywords": [
+        "_DISABLE_SSR_TRANSPARENT",
+        "_MASKMAP",
+        "_NORMALMAP",
+        "_NORMALMAP_TANGENT_SPACE"
+      ],
+      "Floats": {
+        "_AORemapMax": 1.0,
+        "_AORemapMin": 0.0,
+        "_ATDistance": 1.0,
+        "_AddPrecomputedVelocity": 0.0,
+        "_AlbedoAffectEmissive": 0.0,
+        "_AlphaCutoff": 0.5,
+        "_AlphaCutoffEnable": 0.0,
+        "_AlphaCutoffPostpass": 0.5,
+        "_AlphaCutoffPrepass": 0.5,
+        "_AlphaCutoffShadow": 0.5,
+        "_AlphaDstBlend": 0.0,
+        "_AlphaRemapMax": 1.0,
+        "_AlphaRemapMin": 0.0,
+        "_AlphaSrcBlend": 1.0,
+        "_Anisotropy": 0.0,
+        "_BlendMode": 0.0,
+        "_BumpScale": 1.0,
+        "_CoatMask": 0.0,
+        "_CullMode": 2.0,
+        "_CullModeForward": 2.0,
+        "_Cutoff": 0.5,
+        "_DepthOffsetEnable": 0.0,
+        "_DetailAlbedoScale": 1.0,
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalScale": 1.0,
+        "_DetailSmoothnessScale": 1.0,
+        "_DiffusionProfile": 0.0,
+        "_DiffusionProfileHash": 0.0,
+        "_DisplacementLockObjectScale": 1.0,
+        "_DisplacementLockTilingScale": 1.0,
+        "_DisplacementMode": 0.0,
+        "_DoubleSidedEnable": 0.0,
+        "_DoubleSidedGIMode": 0.0,
+        "_DoubleSidedNormalMode": 1.0,
+        "_DstBlend": 0.0,
+        "_DstBlend2": 0.0,
+        "_EmissiveColorMode": 1.0,
+        "_EmissiveExposureWeight": 1.0,
+        "_EmissiveIntensity": 1.0,
+        "_EmissiveIntensityUnit": 0.0,
+        "_EnableBlendModePreserveSpecularLighting": 1.0,
+        "_EnableFogOnTransparent": 1.0,
+        "_EnableGeometricSpecularAA": 0.0,
+        "_EnergyConservingSpecularColor": 1.0,
+        "_GlossMapScale": 1.0,
+        "_Glossiness": 0.5,
+        "_GlossyReflections": 1.0,
+        "_HeightAmplitude": 0.019999999552965164,
+        "_HeightCenter": 0.5,
+        "_HeightMapParametrization": 0.0,
+        "_HeightMax": 1.0,
+        "_HeightMin": -1.0,
+        "_HeightOffset": 0.0,
+        "_HeightPoMAmplitude": 2.0,
+        "_HeightTessAmplitude": 2.0,
+        "_HeightTessCenter": 0.5,
+        "_InvTilingScale": 1.0,
+        "_Ior": 1.5,
+        "_IridescenceMask": 1.0,
+        "_IridescenceThickness": 1.0,
+        "_LinkDetailsWithBase": 1.0,
+        "_MaterialID": 1.0,
+        "_Metallic": 0.0,
+        "_MetallicRemapMax": 1.0,
+        "_MetallicRemapMin": 0.0,
+        "_Mode": 0.0,
+        "_NormalMapSpace": 0.0,
+        "_NormalScale": 1.0,
+        "_ObjectSpaceUVMapping": 0.0,
+        "_ObjectSpaceUVMappingEmissive": 0.0,
+        "_OcclusionStrength": 1.0,
+        "_OpaqueCullMode": 2.0,
+        "_PPDLodThreshold": 5.0,
+        "_PPDMaxSamples": 15.0,
+        "_PPDMinSamples": 5.0,
+        "_PPDPrimitiveLength": 1.0,
+        "_PPDPrimitiveWidth": 1.0,
+        "_Parallax": 0.019999999552965164,
+        "_PerPixelSorting": 0.0,
+        "_RayTracing": 0.0,
+        "_ReceivesSSR": 1.0,
+        "_ReceivesSSRTransparent": 0.0,
+        "_RefractionModel": 0.0,
+        "_Smoothness": 0.5,
+        "_SmoothnessRemapMax": 1.0,
+        "_SmoothnessRemapMin": 0.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_SpecularAAScreenSpaceVariance": 0.10000000149011612,
+        "_SpecularAAThreshold": 0.20000000298023224,
+        "_SpecularHighlights": 1.0,
+        "_SpecularOcclusionMode": 1.0,
+        "_SrcBlend": 1.0,
+        "_StencilRef": 0.0,
+        "_StencilRefDepth": 8.0,
+        "_StencilRefGBuffer": 10.0,
+        "_StencilRefMV": 40.0,
+        "_StencilWriteMask": 6.0,
+        "_StencilWriteMaskDepth": 9.0,
+        "_StencilWriteMaskGBuffer": 15.0,
+        "_StencilWriteMaskMV": 41.0,
+        "_SubsurfaceMask": 1.0,
+        "_SupportDecals": 1.0,
+        "_SurfaceType": 0.0,
+        "_TexWorldScale": 1.0,
+        "_TexWorldScaleEmissive": 1.0,
+        "_Thickness": 1.0,
+        "_TransmissionEnable": 1.0,
+        "_TransmissionMask": 1.0,
+        "_TransparentBackfaceEnable": 0.0,
+        "_TransparentCullMode": 2.0,
+        "_TransparentDepthPostpassEnable": 0.0,
+        "_TransparentDepthPrepassEnable": 0.0,
+        "_TransparentSortPriority": 0.0,
+        "_TransparentWritingMotionVec": 0.0,
+        "_TransparentZWrite": 0.0,
+        "_UVBase": 0.0,
+        "_UVDetail": 0.0,
+        "_UVEmissive": 0.0,
+        "_UVSec": 0.0,
+        "_UseEmissiveIntensity": 0.0,
+        "_UseShadowThreshold": 0.0,
+        "_ZTestDepthEqualForOpaque": 3.0,
+        "_ZTestGBuffer": 4.0,
+        "_ZTestTransparent": 4.0,
+        "_ZWrite": 1.0
+      },
+      "Colors": {
+        "_BaseColor": [
+          0.9063317179679871,
+          0.9063317179679871,
+          0.9063317179679871,
+          1.0
+        ],
+        "_Color": [
+          0.9063317179679871,
+          0.9063317179679871,
+          0.9063317179679871,
+          1.0
+        ],
+        "_DiffusionProfileAsset": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_DoubleSidedConstants": [
+          1.0,
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "_EmissionColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_EmissiveColor": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_EmissiveColorLDR": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_InvPrimScale": [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_IridescenceThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_SpecularColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_ThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_TransmittanceColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_UVDetailsMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMaskEmissive": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Textures": [
+        {
+          "Name": "_BaseColorMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 3296
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MainTex",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 3296
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MaskMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 1224
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_NormalMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 640
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "Key": "sharedassets2.assets:282",
+      "Name": "intelset",
+      "Keywords": [
+        "_DISABLE_SSR_TRANSPARENT",
+        "_MASKMAP",
+        "_NORMALMAP",
+        "_NORMALMAP_TANGENT_SPACE"
+      ],
+      "Floats": {
+        "_AORemapMax": 1.0,
+        "_AORemapMin": 0.0,
+        "_ATDistance": 1.0,
+        "_AddPrecomputedVelocity": 0.0,
+        "_AlbedoAffectEmissive": 0.0,
+        "_AlphaCutoff": 0.5,
+        "_AlphaCutoffEnable": 0.0,
+        "_AlphaCutoffPostpass": 0.5,
+        "_AlphaCutoffPrepass": 0.5,
+        "_AlphaCutoffShadow": 0.5,
+        "_AlphaDstBlend": 0.0,
+        "_AlphaRemapMax": 1.0,
+        "_AlphaRemapMin": 0.0,
+        "_AlphaSrcBlend": 1.0,
+        "_Anisotropy": 0.0,
+        "_BlendMode": 0.0,
+        "_BumpScale": 1.0,
+        "_CoatMask": 0.0,
+        "_CullMode": 2.0,
+        "_CullModeForward": 2.0,
+        "_Cutoff": 0.5,
+        "_DepthOffsetEnable": 0.0,
+        "_DetailAlbedoScale": 1.0,
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalScale": 1.0,
+        "_DetailSmoothnessScale": 1.0,
+        "_DiffusionProfile": 0.0,
+        "_DiffusionProfileHash": 0.0,
+        "_DisplacementLockObjectScale": 1.0,
+        "_DisplacementLockTilingScale": 1.0,
+        "_DisplacementMode": 0.0,
+        "_DoubleSidedEnable": 0.0,
+        "_DoubleSidedGIMode": 0.0,
+        "_DoubleSidedNormalMode": 1.0,
+        "_DstBlend": 0.0,
+        "_DstBlend2": 0.0,
+        "_EmissiveColorMode": 1.0,
+        "_EmissiveExposureWeight": 1.0,
+        "_EmissiveIntensity": 1.0,
+        "_EmissiveIntensityUnit": 0.0,
+        "_EnableBlendModePreserveSpecularLighting": 1.0,
+        "_EnableFogOnTransparent": 1.0,
+        "_EnableGeometricSpecularAA": 0.0,
+        "_EnergyConservingSpecularColor": 1.0,
+        "_GlossMapScale": 1.0,
+        "_Glossiness": 0.5,
+        "_GlossyReflections": 1.0,
+        "_HeightAmplitude": 0.019999999552965164,
+        "_HeightCenter": 0.5,
+        "_HeightMapParametrization": 0.0,
+        "_HeightMax": 1.0,
+        "_HeightMin": -1.0,
+        "_HeightOffset": 0.0,
+        "_HeightPoMAmplitude": 2.0,
+        "_HeightTessAmplitude": 2.0,
+        "_HeightTessCenter": 0.5,
+        "_InvTilingScale": 1.0,
+        "_Ior": 1.5,
+        "_IridescenceMask": 1.0,
+        "_IridescenceThickness": 1.0,
+        "_LinkDetailsWithBase": 1.0,
+        "_MaterialID": 1.0,
+        "_Metallic": 0.0,
+        "_MetallicRemapMax": 1.0,
+        "_MetallicRemapMin": 0.0,
+        "_Mode": 0.0,
+        "_NormalMapSpace": 0.0,
+        "_NormalScale": 1.0,
+        "_ObjectSpaceUVMapping": 0.0,
+        "_ObjectSpaceUVMappingEmissive": 0.0,
+        "_OcclusionStrength": 1.0,
+        "_OpaqueCullMode": 2.0,
+        "_PPDLodThreshold": 5.0,
+        "_PPDMaxSamples": 15.0,
+        "_PPDMinSamples": 5.0,
+        "_PPDPrimitiveLength": 1.0,
+        "_PPDPrimitiveWidth": 1.0,
+        "_Parallax": 0.019999999552965164,
+        "_PerPixelSorting": 0.0,
+        "_RayTracing": 0.0,
+        "_ReceivesSSR": 1.0,
+        "_ReceivesSSRTransparent": 0.0,
+        "_RefractionModel": 0.0,
+        "_Smoothness": 0.5,
+        "_SmoothnessRemapMax": 1.0,
+        "_SmoothnessRemapMin": 0.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_SpecularAAScreenSpaceVariance": 0.10000000149011612,
+        "_SpecularAAThreshold": 0.20000000298023224,
+        "_SpecularHighlights": 1.0,
+        "_SpecularOcclusionMode": 1.0,
+        "_SrcBlend": 1.0,
+        "_StencilRef": 0.0,
+        "_StencilRefDepth": 8.0,
+        "_StencilRefGBuffer": 10.0,
+        "_StencilRefMV": 40.0,
+        "_StencilWriteMask": 6.0,
+        "_StencilWriteMaskDepth": 9.0,
+        "_StencilWriteMaskGBuffer": 15.0,
+        "_StencilWriteMaskMV": 41.0,
+        "_SubsurfaceMask": 1.0,
+        "_SupportDecals": 1.0,
+        "_SurfaceType": 0.0,
+        "_TexWorldScale": 1.0,
+        "_TexWorldScaleEmissive": 1.0,
+        "_Thickness": 1.0,
+        "_TransmissionEnable": 1.0,
+        "_TransmissionMask": 1.0,
+        "_TransparentBackfaceEnable": 0.0,
+        "_TransparentCullMode": 2.0,
+        "_TransparentDepthPostpassEnable": 0.0,
+        "_TransparentDepthPrepassEnable": 0.0,
+        "_TransparentSortPriority": 0.0,
+        "_TransparentWritingMotionVec": 0.0,
+        "_TransparentZWrite": 0.0,
+        "_UVBase": 0.0,
+        "_UVDetail": 0.0,
+        "_UVEmissive": 0.0,
+        "_UVSec": 0.0,
+        "_UseEmissiveIntensity": 0.0,
+        "_UseShadowThreshold": 0.0,
+        "_ZTestDepthEqualForOpaque": 3.0,
+        "_ZTestGBuffer": 4.0,
+        "_ZTestTransparent": 4.0,
+        "_ZWrite": 1.0
+      },
+      "Colors": {
+        "_BaseColor": [
+          0.9063317179679871,
+          0.9063317179679871,
+          0.9063317179679871,
+          1.0
+        ],
+        "_Color": [
+          0.9063317179679871,
+          0.9063317179679871,
+          0.9063317179679871,
+          1.0
+        ],
+        "_DiffusionProfileAsset": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_DoubleSidedConstants": [
+          1.0,
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "_EmissionColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_EmissiveColor": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_EmissiveColorLDR": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_InvPrimScale": [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_IridescenceThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_SpecularColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_ThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_TransmittanceColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_UVDetailsMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMaskEmissive": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Textures": [
+        {
+          "Name": "_BaseColorMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 361
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MainTex",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 361
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MaskMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 581
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_NormalMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 750
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "Key": "sharedassets2.assets:146",
+      "Name": "OfficeEquipmentSet",
+      "Keywords": [
+        "_DISABLE_SSR_TRANSPARENT",
+        "_MASKMAP",
+        "_NORMALMAP",
+        "_NORMALMAP_TANGENT_SPACE"
+      ],
+      "Floats": {
+        "_AORemapMax": 1.0,
+        "_AORemapMin": 1.0,
+        "_ATDistance": 1.0,
+        "_AddPrecomputedVelocity": 0.0,
+        "_AlbedoAffectEmissive": 0.0,
+        "_AlphaCutoff": 0.5,
+        "_AlphaCutoffEnable": 0.0,
+        "_AlphaCutoffPostpass": 0.5,
+        "_AlphaCutoffPrepass": 0.5,
+        "_AlphaCutoffShadow": 0.5,
+        "_AlphaDstBlend": 0.0,
+        "_AlphaRemapMax": 1.0,
+        "_AlphaRemapMin": 0.0,
+        "_AlphaSrcBlend": 1.0,
+        "_AlphaToMask": 0.0,
+        "_AlphaToMaskInspectorValue": 0.0,
+        "_Anisotropy": 0.0,
+        "_BlendMode": 0.0,
+        "_BumpScale": 1.0,
+        "_CoatMask": 0.0,
+        "_CullMode": 2.0,
+        "_CullModeForward": 2.0,
+        "_Cutoff": 0.5,
+        "_DepthOffsetEnable": 0.0,
+        "_DetailAlbedoScale": 1.0,
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalScale": 1.0,
+        "_DetailSmoothnessScale": 1.0,
+        "_DiffusionProfile": 0.0,
+        "_DiffusionProfileHash": 0.0,
+        "_DisplacementLockObjectScale": 1.0,
+        "_DisplacementLockTilingScale": 1.0,
+        "_DisplacementMode": 0.0,
+        "_DistortionBlendMode": 0.0,
+        "_DistortionBlurBlendMode": 0.0,
+        "_DistortionBlurDstBlend": 1.0,
+        "_DistortionBlurRemapMax": 1.0,
+        "_DistortionBlurRemapMin": 0.0,
+        "_DistortionBlurScale": 1.0,
+        "_DistortionBlurSrcBlend": 1.0,
+        "_DistortionDepthTest": 1.0,
+        "_DistortionDstBlend": 1.0,
+        "_DistortionEnable": 0.0,
+        "_DistortionScale": 1.0,
+        "_DistortionSrcBlend": 1.0,
+        "_DistortionVectorBias": -1.0,
+        "_DistortionVectorScale": 2.0,
+        "_DoubleSidedEnable": 0.0,
+        "_DoubleSidedGIMode": 0.0,
+        "_DoubleSidedNormalMode": 1.0,
+        "_DstBlend": 0.0,
+        "_DstBlend2": 0.0,
+        "_EmissiveColorMode": 1.0,
+        "_EmissiveExposureWeight": 1.0,
+        "_EmissiveIntensity": 1.0,
+        "_EmissiveIntensityUnit": 0.0,
+        "_EnableBlendModePreserveSpecularLighting": 1.0,
+        "_EnableFogOnTransparent": 1.0,
+        "_EnableGeometricSpecularAA": 0.0,
+        "_EnergyConservingSpecularColor": 1.0,
+        "_GlossMapScale": 1.0,
+        "_Glossiness": 0.5,
+        "_GlossyReflections": 1.0,
+        "_HeightAmplitude": 0.019999999552965164,
+        "_HeightCenter": 0.5,
+        "_HeightMapParametrization": 0.0,
+        "_HeightMax": 1.0,
+        "_HeightMin": -1.0,
+        "_HeightOffset": 0.0,
+        "_HeightPoMAmplitude": 2.0,
+        "_HeightTessAmplitude": 2.0,
+        "_HeightTessCenter": 0.5,
+        "_InvTilingScale": 1.0,
+        "_Ior": 1.5,
+        "_IridescenceMask": 1.0,
+        "_IridescenceThickness": 1.0,
+        "_LinkDetailsWithBase": 0.0,
+        "_MaterialID": 1.0,
+        "_Metallic": 0.04100000113248825,
+        "_MetallicRemapMax": 1.0,
+        "_MetallicRemapMin": 0.0,
+        "_Mode": 0.0,
+        "_NormalMapSpace": 0.0,
+        "_NormalScale": 1.0,
+        "_ObjectSpaceUVMapping": 0.0,
+        "_ObjectSpaceUVMappingEmissive": 0.0,
+        "_OcclusionStrength": 0.800000011920929,
+        "_OpaqueCullMode": 2.0,
+        "_PPDLodThreshold": 5.0,
+        "_PPDMaxSamples": 15.0,
+        "_PPDMinSamples": 5.0,
+        "_PPDPrimitiveLength": 1.0,
+        "_PPDPrimitiveWidth": 1.0,
+        "_Parallax": 0.019999999552965164,
+        "_PerPixelSorting": 0.0,
+        "_RayTracing": 0.0,
+        "_ReceivesSSR": 1.0,
+        "_ReceivesSSRTransparent": 0.0,
+        "_RefractionModel": 0.0,
+        "_SSRefractionProjectionModel": 0.0,
+        "_Smoothness": 0.3100000023841858,
+        "_SmoothnessRemapMax": 0.6809651851654053,
+        "_SmoothnessRemapMin": 0.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_SpecularAAScreenSpaceVariance": 0.10000000149011612,
+        "_SpecularAAThreshold": 0.20000000298023224,
+        "_SpecularHighlights": 1.0,
+        "_SpecularOcclusionMode": 1.0,
+        "_SrcBlend": 1.0,
+        "_StencilRef": 0.0,
+        "_StencilRefDepth": 8.0,
+        "_StencilRefDistortionVec": 4.0,
+        "_StencilRefGBuffer": 10.0,
+        "_StencilRefMV": 40.0,
+        "_StencilWriteMask": 6.0,
+        "_StencilWriteMaskDepth": 9.0,
+        "_StencilWriteMaskDistortionVec": 4.0,
+        "_StencilWriteMaskGBuffer": 15.0,
+        "_StencilWriteMaskMV": 41.0,
+        "_SubsurfaceMask": 1.0,
+        "_SupportDecals": 1.0,
+        "_SurfaceType": 0.0,
+        "_TexWorldScale": 1.0,
+        "_TexWorldScaleEmissive": 1.0,
+        "_Thickness": 1.0,
+        "_TransmissionEnable": 1.0,
+        "_TransmissionMask": 1.0,
+        "_TransparentBackfaceEnable": 0.0,
+        "_TransparentCullMode": 2.0,
+        "_TransparentDepthPostpassEnable": 0.0,
+        "_TransparentDepthPrepassEnable": 0.0,
+        "_TransparentSortPriority": 0.0,
+        "_TransparentWritingMotionVec": 0.0,
+        "_TransparentZWrite": 0.0,
+        "_UVBase": 0.0,
+        "_UVDetail": 0.0,
+        "_UVEmissive": 0.0,
+        "_UVSec": 0.0,
+        "_UseEmissiveIntensity": 0.0,
+        "_UseShadowThreshold": 0.0,
+        "_ZTestDepthEqualForOpaque": 3.0,
+        "_ZTestGBuffer": 4.0,
+        "_ZTestModeDistortion": 4.0,
+        "_ZTestTransparent": 4.0,
+        "_ZWrite": 1.0
+      },
+      "Colors": {
+        "_BaseColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_BaseColorMap_MipInfo": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_DiffusionProfileAsset": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_DoubleSidedConstants": [
+          1.0,
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "_EmissionColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_EmissiveColor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_EmissiveColorLDR": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_InvPrimScale": [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_IridescenceThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_SpecularColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_ThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_TransmittanceColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_UVDetailsMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMaskEmissive": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Textures": [
+        {
+          "Name": "_BaseColorMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 870
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MainTex",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 870
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MaskMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 785
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_NormalMap",
+          "Texture": {
+            "File": "sharedassets2.assets",
+            "Id": 780
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "Key": "sharedassets1.assets:144",
+      "Name": "M_WalkieTalkie",
+      "Keywords": [],
+      "Floats": {
+        "Boolean_1f1ad03ef3f34071aa3bcbadbe7065e8": 0.0,
+        "Boolean_353edd87f208456eb98d877c64b709c0": 0.0,
+        "Boolean_3e7148741ea043b78143dc36f19e66bc": 1.0,
+        "Boolean_45d01aaa754144d78eabc90c7050ee1e": 0.0,
+        "Boolean_783DA2B0": 0.0,
+        "Boolean_D670D602": 1.0,
+        "Boolean_ECEFBEC0": 0.0,
+        "Boolean_a03cfab2e2dd47bc8d6f7415ebffdede": 1.0,
+        "Boolean_bfd77f5363c748eabfcdf578ffcf8610": 1.0,
+        "Boolean_d085fda90b1947349720bbc4f8ec8902": 0.0,
+        "Boolean_d6564e6d0cbe4e1194d4c4a23260af1f": 0.0,
+        "Boolean_ebbd6abce832425b8e8d87b9145871d8": 1.0,
+        "Vector1_1": 0.0,
+        "Vector1_119DBA34": 1.0,
+        "Vector1_126bc8746d4e40a9806d17c4db3d3575": 0.0,
+        "Vector1_12fe0cb484434e1bb9fbb72624870f7b": 1.0,
+        "Vector1_1560b1dcdeea46d6bc9a33f288cd493e": 0.5,
+        "Vector1_19da6ead5cd24c75ab49ba015076ab5d": 15.0,
+        "Vector1_1ecf8adf107543b697e04962611a6572": 2.0,
+        "Vector1_2": 1.0,
+        "Vector1_3ccbbe4dd820486dac11ecd1ca2cd7b5": -0.800000011920929,
+        "Vector1_3d93f9a0aa3c4be2ba3dec68934e9a7e": 999.0,
+        "Vector1_3da11fceefa344c2bada844cb46fa6eb": 3.0,
+        "Vector1_4B28F8D1": 1.0,
+        "Vector1_579ebf11054942a7818037ecb25a9f88": 1.0,
+        "Vector1_5fbd59114770475590bb665c26186029": 5.0,
+        "Vector1_AF65C65C": 0.0,
+        "Vector1_BDF4927C": 1.0,
+        "Vector1_D39B6A9D": 1.0,
+        "Vector1_ED619312": 0.6000000238418579,
+        "Vector1_a13056ce54c044bb924cbcc8240b8139": 0.10000000149011612,
+        "Vector1_a13056ce54c044bb924cbcc8240b8139_1": 0.5,
+        "Vector1_aeb1d1ec0151492cb8e418e6cbe706ba": 0.0,
+        "Vector1_b35bb47aa37c496da3a6c21563e39228": -1.0,
+        "Vector1_c15a70b8be8447e59a7f03a6e9976ce5": 0.0,
+        "Vector1_c2c4976592e748369f46ef5b0df18438": 0.6000000238418579,
+        "Vector1_c5c84d6c27bc4e63b43c63c3632f8b59": 1.0,
+        "Vector1_cbcd3d30c1874f1abbfe320c663b6c66": 6.0,
+        "Vector1_df308df77fb1465d88917f755a5df14a": 1.0,
+        "Vector1_e44edfc2f5b444f890d1ea79d66e4764": 1.0,
+        "Vector1_eb681cc57c3e46829a9e2c40614de15c": 1.100000023841858,
+        "Vector1_eed1c06dc017411fbfc5b918c8207a51": 0.0,
+        "Vector1_f199065f0f8b437e87fe45c011048e10": 0.2199999988079071,
+        "_AORemapMax": 1.0,
+        "_AORemapMin": 0.0,
+        "_ATDistance": 1.0,
+        "_AddPrecomputedVelocity": 0.0,
+        "_AlbedoAffectEmissive": 0.0,
+        "_AlphaCutoff": 0.5,
+        "_AlphaCutoffEnable": 0.0,
+        "_AlphaCutoffPostpass": 0.5,
+        "_AlphaCutoffPrepass": 0.5,
+        "_AlphaCutoffShadow": 0.5,
+        "_AlphaDstBlend": 0.0,
+        "_AlphaSrcBlend": 1.0,
+        "_AlphaToMask": 0.0,
+        "_AlphaToMaskInspectorValue": 0.0,
+        "_Anisotropy": 0.0,
+        "_BlendMode": 0.0,
+        "_CoatMask": 0.0,
+        "_ConservativeDepthOffsetEnable": 0.0,
+        "_CullMode": 2.0,
+        "_CullModeForward": 2.0,
+        "_Cutoff": 0.5,
+        "_DepthOffsetEnable": 0.0,
+        "_DetailAlbedoScale": 1.0,
+        "_DetailNormalScale": 1.0,
+        "_DetailSmoothnessScale": 1.0,
+        "_DiffusionProfile": 0.0,
+        "_DiffusionProfileHash": 0.0,
+        "_DisplacementLockObjectScale": 1.0,
+        "_DisplacementLockTilingScale": 1.0,
+        "_DisplacementMode": 0.0,
+        "_DoubleSidedEnable": 0.0,
+        "_DoubleSidedGIMode": 0.0,
+        "_DoubleSidedNormalMode": 1.0,
+        "_DstBlend": 0.0,
+        "_DstBlend2": 0.0,
+        "_EmissiveColorMode": 1.0,
+        "_EmissiveExposureWeight": 1.0,
+        "_EmissiveIntensity": 1.0,
+        "_EmissiveIntensityUnit": 0.0,
+        "_EnableBlendModePreserveSpecularLighting": 1.0,
+        "_EnableFogOnTransparent": 1.0,
+        "_EnableGeometricSpecularAA": 0.0,
+        "_EnergyConservingSpecularColor": 1.0,
+        "_ExcludeFromTUAndAA": 0.0,
+        "_HeightAmplitude": 0.019999999552965164,
+        "_HeightCenter": 0.5,
+        "_HeightMapParametrization": 0.0,
+        "_HeightMax": 1.0,
+        "_HeightMin": -1.0,
+        "_HeightOffset": 0.0,
+        "_HeightPoMAmplitude": 2.0,
+        "_HeightTessAmplitude": 2.0,
+        "_HeightTessCenter": 0.5,
+        "_InvTilingScale": 1.0,
+        "_Ior": 1.5,
+        "_IridescenceMask": 1.0,
+        "_IridescenceThickness": 1.0,
+        "_LinkDetailsWithBase": 1.0,
+        "_MaterialID": 1.0,
+        "_MaterialTypeMask": 2.0,
+        "_Metallic": 0,
+        "_MetallicRemapMax": 1.0,
+        "_MetallicRemapMin": 0.0,
+        "_NormalMapSpace": 0.0,
+        "_NormalScale": 1,
+        "_OpaqueCullMode": 2.0,
+        "_PPDLodThreshold": 5.0,
+        "_PPDMaxSamples": 15.0,
+        "_PPDMinSamples": 5.0,
+        "_PPDPrimitiveLength": 1.0,
+        "_PPDPrimitiveWidth": 1.0,
+        "_PerPixelSorting": 0.0,
+        "_RayTracing": 0.0,
+        "_ReceivesSSR": 1.0,
+        "_ReceivesSSRTransparent": 0.0,
+        "_RefractionModel": 0.0,
+        "_RenderQueueType": 1.0,
+        "_RequireSplitLighting": 0.0,
+        "_Smoothness": 0.35,
+        "_SmoothnessRemapMax": 1.0,
+        "_SmoothnessRemapMin": 0.0,
+        "_SpecularAAScreenSpaceVariance": 0.10000000149011612,
+        "_SpecularAAThreshold": 0.20000000298023224,
+        "_SpecularOcclusionMode": 1.0,
+        "_SrcBlend": 1.0,
+        "_StencilRef": 0.0,
+        "_StencilRefDepth": 8.0,
+        "_StencilRefDistortionVec": 4.0,
+        "_StencilRefGBuffer": 10.0,
+        "_StencilRefMV": 40.0,
+        "_StencilWriteMask": 6.0,
+        "_StencilWriteMaskDepth": 9.0,
+        "_StencilWriteMaskDistortionVec": 4.0,
+        "_StencilWriteMaskGBuffer": 15.0,
+        "_StencilWriteMaskMV": 41.0,
+        "_SubsurfaceMask": 1.0,
+        "_SupportDecals": 1.0,
+        "_SurfaceType": 0.0,
+        "_TexWorldScale": 1.0,
+        "_TexWorldScaleEmissive": 1.0,
+        "_Thickness": 1.0,
+        "_TransmissionEnable": 1.0,
+        "_TransparentBackfaceEnable": 0.0,
+        "_TransparentCullMode": 2.0,
+        "_TransparentDepthPostpassEnable": 0.0,
+        "_TransparentDepthPrepassEnable": 0.0,
+        "_TransparentSortPriority": 0.0,
+        "_TransparentWritingMotionVec": 0.0,
+        "_TransparentZWrite": 0.0,
+        "_UVBase": 0.0,
+        "_UVDetail": 0.0,
+        "_UVEmissive": 0.0,
+        "_UseEmissiveIntensity": 0.0,
+        "_UseShadowThreshold": 0.0,
+        "_ZTestDepthEqualForOpaque": 3.0,
+        "_ZTestGBuffer": 4.0,
+        "_ZTestTransparent": 4.0,
+        "_ZWrite": 1.0
+      },
+      "Colors": {
+        "Color_62fbed44a6cb4c9b851b7a822a229403": [
+          1.0,
+          0.9510303735733032,
+          0.9103773832321167,
+          0.0
+        ],
+        "Color_9999a74f96034bfd8f70d82adf6bdcbd": [
+          0.0,
+          0.3844773769378662,
+          1.0,
+          1.0
+        ],
+        "Color_A7DF1144": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Color_AF14EE56": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Color_cd773efa2ec149048144e848a55abbfa": [
+          0.6274510025978088,
+          0.4941176772117615,
+          0.35686275362968445,
+          1.0
+        ],
+        "Color_cd773efa2ec149048144e848a55abbfa_1": [
+          0.3529411852359772,
+          0.29411765933036804,
+          0.250980406999588,
+          1.0
+        ],
+        "Color_f6973748622e48d389fed870a51f8d37": [
+          0.033018890768289566,
+          0.5105500817298889,
+          1.0,
+          0.0
+        ],
+        "Vector2_a2eabf39adb94f15b288ca76d631bb9d": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_BaseColor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_BaseColorMap_MipInfo": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_DiffusionProfileAsset": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_DoubleSidedConstants": [
+          1.0,
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "_EmissionColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_EmissiveColor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_EmissiveColorLDR": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_InvPrimScale": [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_IridescenceThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_SpecularColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_ThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_TransmittanceColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_UVDetailsMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMaskEmissive": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Textures": [
+        {
+          "Name": "_BaseColorMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 2894
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_NormalMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 1286
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "Key": "sharedassets1.assets:155",
+      "Name": "Ref_Plane_Ma3t001",
+      "Keywords": [
+        "_DISABLE_SSR_TRANSPARENT",
+        "_NORMALMAP",
+        "_NORMALMAP_TANGENT_SPACE"
+      ],
+      "Floats": {
+        "_AORemapMax": 1.0,
+        "_AORemapMin": 0.0,
+        "_ATDistance": 1.0,
+        "_AddPrecomputedVelocity": 0.0,
+        "_AlbedoAffectEmissive": 0.0,
+        "_AlphaCutoff": 0.5,
+        "_AlphaCutoffEnable": 0.0,
+        "_AlphaCutoffPostpass": 0.5,
+        "_AlphaCutoffPrepass": 0.5,
+        "_AlphaCutoffShadow": 0.5,
+        "_AlphaDstBlend": 0.0,
+        "_AlphaRemapMax": 1.0,
+        "_AlphaRemapMin": 0.0,
+        "_AlphaSrcBlend": 1.0,
+        "_Anisotropy": 0.0,
+        "_BlendMode": 0.0,
+        "_BumpScale": 1.0,
+        "_CoatMask": 0.0,
+        "_CullMode": 2.0,
+        "_CullModeForward": 2.0,
+        "_Cutoff": 0.5,
+        "_DepthOffsetEnable": 0.0,
+        "_DetailAlbedoScale": 1.0,
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalScale": 1.0,
+        "_DetailSmoothnessScale": 1.0,
+        "_DiffusionProfile": 0.0,
+        "_DiffusionProfileHash": 0.0,
+        "_DisplacementLockObjectScale": 1.0,
+        "_DisplacementLockTilingScale": 1.0,
+        "_DisplacementMode": 0.0,
+        "_DoubleSidedEnable": 0.0,
+        "_DoubleSidedGIMode": 0.0,
+        "_DoubleSidedNormalMode": 1.0,
+        "_DstBlend": 0.0,
+        "_DstBlend2": 0.0,
+        "_EmissiveColorMode": 1.0,
+        "_EmissiveExposureWeight": 1.0,
+        "_EmissiveIntensity": 1.0,
+        "_EmissiveIntensityUnit": 0.0,
+        "_EnableBlendModePreserveSpecularLighting": 1.0,
+        "_EnableFogOnTransparent": 1.0,
+        "_EnableGeometricSpecularAA": 0.0,
+        "_EnergyConservingSpecularColor": 1.0,
+        "_GlossMapScale": 1.0,
+        "_Glossiness": 0.1414213478565216,
+        "_GlossyReflections": 1.0,
+        "_HeightAmplitude": 0.019999999552965164,
+        "_HeightCenter": 0.5,
+        "_HeightMapParametrization": 0.0,
+        "_HeightMax": 1.0,
+        "_HeightMin": -1.0,
+        "_HeightOffset": 0.0,
+        "_HeightPoMAmplitude": 2.0,
+        "_HeightTessAmplitude": 2.0,
+        "_HeightTessCenter": 0.5,
+        "_InvTilingScale": 1.0,
+        "_Ior": 1.5,
+        "_IridescenceMask": 1.0,
+        "_IridescenceThickness": 1.0,
+        "_LinkDetailsWithBase": 1.0,
+        "_MaterialID": 1.0,
+        "_Metallic": 0.3149999976158142,
+        "_MetallicRemapMax": 1.0,
+        "_MetallicRemapMin": 0.0,
+        "_Mode": 0.0,
+        "_NormalMapSpace": 0.0,
+        "_NormalScale": 8.0,
+        "_ObjectSpaceUVMapping": 0.0,
+        "_ObjectSpaceUVMappingEmissive": 0.0,
+        "_OcclusionStrength": 1.0,
+        "_OpaqueCullMode": 2.0,
+        "_PPDLodThreshold": 5.0,
+        "_PPDMaxSamples": 15.0,
+        "_PPDMinSamples": 5.0,
+        "_PPDPrimitiveLength": 1.0,
+        "_PPDPrimitiveWidth": 1.0,
+        "_Parallax": 0.019999999552965164,
+        "_PerPixelSorting": 0.0,
+        "_RayTracing": 0.0,
+        "_ReceivesSSR": 1.0,
+        "_ReceivesSSRTransparent": 0.0,
+        "_RefractionModel": 0.0,
+        "_Smoothness": 0.5120000243186951,
+        "_SmoothnessRemapMax": 1.0,
+        "_SmoothnessRemapMin": 0.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_SpecularAAScreenSpaceVariance": 0.10000000149011612,
+        "_SpecularAAThreshold": 0.20000000298023224,
+        "_SpecularHighlights": 1.0,
+        "_SpecularOcclusionMode": 1.0,
+        "_SrcBlend": 1.0,
+        "_StencilRef": 0.0,
+        "_StencilRefDepth": 8.0,
+        "_StencilRefGBuffer": 10.0,
+        "_StencilRefMV": 40.0,
+        "_StencilWriteMask": 6.0,
+        "_StencilWriteMaskDepth": 9.0,
+        "_StencilWriteMaskGBuffer": 15.0,
+        "_StencilWriteMaskMV": 41.0,
+        "_SubsurfaceMask": 1.0,
+        "_SupportDecals": 1.0,
+        "_SurfaceType": 0.0,
+        "_TexWorldScale": 1.0,
+        "_TexWorldScaleEmissive": 1.0,
+        "_Thickness": 1.0,
+        "_TransmissionEnable": 1.0,
+        "_TransmissionMask": 1.0,
+        "_TransparentBackfaceEnable": 0.0,
+        "_TransparentCullMode": 2.0,
+        "_TransparentDepthPostpassEnable": 0.0,
+        "_TransparentDepthPrepassEnable": 0.0,
+        "_TransparentSortPriority": 0.0,
+        "_TransparentWritingMotionVec": 0.0,
+        "_TransparentZWrite": 0.0,
+        "_UVBase": 0.0,
+        "_UVDetail": 0.0,
+        "_UVEmissive": 0.0,
+        "_UVSec": 0.0,
+        "_UseEmissiveIntensity": 0.0,
+        "_UseShadowThreshold": 0.0,
+        "_ZTestDepthEqualForOpaque": 3.0,
+        "_ZTestGBuffer": 4.0,
+        "_ZTestTransparent": 4.0,
+        "_ZWrite": 1.0
+      },
+      "Colors": {
+        "_BaseColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_DiffusionProfileAsset": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_DoubleSidedConstants": [
+          1.0,
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "_EmissionColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_EmissiveColor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_EmissiveColorLDR": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_InvPrimScale": [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_IridescenceThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_SpecularColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_ThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_TransmittanceColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_UVDetailsMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMaskEmissive": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Textures": [
+        {
+          "Name": "_BaseColorMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 3397
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MainTex",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 3397
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_NormalMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 1620
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "Key": "sharedassets1.assets:139",
+      "Name": "Gadgets_mtl",
+      "Keywords": [
+        "_DISABLE_SSR_TRANSPARENT",
+        "_MASKMAP",
+        "_NORMALMAP",
+        "_NORMALMAP_TANGENT_SPACE",
+        "_SPECULARCOLORMAP"
+      ],
+      "Floats": {
+        "_AORemapMax": 1.0,
+        "_AORemapMin": 0.0,
+        "_ATDistance": 1.0,
+        "_AddPrecomputedVelocity": 0.0,
+        "_AlbedoAffectEmissive": 0.0,
+        "_AlphaCutoff": 0.5,
+        "_AlphaCutoffEnable": 0.0,
+        "_AlphaCutoffPostpass": 0.5,
+        "_AlphaCutoffPrepass": 0.5,
+        "_AlphaCutoffShadow": 0.5,
+        "_AlphaDstBlend": 0.0,
+        "_AlphaRemapMax": 1.0,
+        "_AlphaRemapMin": 0.0,
+        "_AlphaSrcBlend": 1.0,
+        "_Anisotropy": 0.0,
+        "_BlendMode": 0.0,
+        "_BumpScale": 1.0,
+        "_CoatMask": 0.0,
+        "_CullMode": 2.0,
+        "_CullModeForward": 2.0,
+        "_Cutoff": 0.5,
+        "_DepthOffsetEnable": 0.0,
+        "_DetailAlbedoScale": 1.0,
+        "_DetailNormalMapScale": 1.0,
+        "_DetailNormalScale": 1.0,
+        "_DetailSmoothnessScale": 1.0,
+        "_DiffusionProfile": 0.0,
+        "_DiffusionProfileHash": 0.0,
+        "_DisplacementLockObjectScale": 1.0,
+        "_DisplacementLockTilingScale": 1.0,
+        "_DisplacementMode": 0.0,
+        "_DistortionBlendMode": 0.0,
+        "_DistortionBlurBlendMode": 0.0,
+        "_DistortionBlurDstBlend": 1.0,
+        "_DistortionBlurRemapMax": 1.0,
+        "_DistortionBlurRemapMin": 0.0,
+        "_DistortionBlurScale": 1.0,
+        "_DistortionBlurSrcBlend": 1.0,
+        "_DistortionDepthTest": 1.0,
+        "_DistortionDstBlend": 1.0,
+        "_DistortionEnable": 0.0,
+        "_DistortionScale": 1.0,
+        "_DistortionSrcBlend": 1.0,
+        "_DistortionVectorBias": -1.0,
+        "_DistortionVectorScale": 2.0,
+        "_DoubleSidedEnable": 0.0,
+        "_DoubleSidedGIMode": 0.0,
+        "_DoubleSidedNormalMode": 1.0,
+        "_DstBlend": 0.0,
+        "_DstBlend2": 0.0,
+        "_EmissiveColorMode": 1.0,
+        "_EmissiveExposureWeight": 1.0,
+        "_EmissiveIntensity": 1.0,
+        "_EmissiveIntensityUnit": 0.0,
+        "_EnableBlendModePreserveSpecularLighting": 1.0,
+        "_EnableFogOnTransparent": 1.0,
+        "_EnableGeometricSpecularAA": 0.0,
+        "_EnergyConservingSpecularColor": 1.0,
+        "_GlossMapScale": 1.0,
+        "_Glossiness": 0.5,
+        "_GlossyReflections": 1.0,
+        "_HeightAmplitude": 0.019999999552965164,
+        "_HeightCenter": 0.5,
+        "_HeightMapParametrization": 0.0,
+        "_HeightMax": 1.0,
+        "_HeightMin": -1.0,
+        "_HeightOffset": 0.0,
+        "_HeightPoMAmplitude": 2.0,
+        "_HeightTessAmplitude": 2.0,
+        "_HeightTessCenter": 0.5,
+        "_InvTilingScale": 1.0,
+        "_Ior": 1.5,
+        "_IridescenceMask": 1.0,
+        "_IridescenceThickness": 1.0,
+        "_LinkDetailsWithBase": 0.0,
+        "_MaterialID": 1.0,
+        "_Metallic": 0.0,
+        "_MetallicRemapMax": 1.0,
+        "_MetallicRemapMin": 0.0,
+        "_Mode": 0.0,
+        "_NormalMapSpace": 0.0,
+        "_NormalScale": 1.0,
+        "_ObjectSpaceUVMapping": 0.0,
+        "_ObjectSpaceUVMappingEmissive": 0.0,
+        "_OcclusionStrength": 1.0,
+        "_OpaqueCullMode": 2.0,
+        "_PPDLodThreshold": 5.0,
+        "_PPDMaxSamples": 15.0,
+        "_PPDMinSamples": 5.0,
+        "_PPDPrimitiveLength": 1.0,
+        "_PPDPrimitiveWidth": 1.0,
+        "_Parallax": 0.019999999552965164,
+        "_PerPixelSorting": 0.0,
+        "_RayTracing": 0.0,
+        "_ReceivesSSR": 1.0,
+        "_ReceivesSSRTransparent": 0.0,
+        "_RefractionModel": 0.0,
+        "_SSRefractionProjectionModel": 0.0,
+        "_Smoothness": 0.5,
+        "_SmoothnessRemapMax": 0.7977321147918701,
+        "_SmoothnessRemapMin": 0.0,
+        "_SmoothnessTextureChannel": 0.0,
+        "_SpecularAAScreenSpaceVariance": 0.10000000149011612,
+        "_SpecularAAThreshold": 0.20000000298023224,
+        "_SpecularHighlights": 1.0,
+        "_SpecularOcclusionMode": 1.0,
+        "_SrcBlend": 1.0,
+        "_StencilRef": 0.0,
+        "_StencilRefDepth": 8.0,
+        "_StencilRefDistortionVec": 4.0,
+        "_StencilRefGBuffer": 10.0,
+        "_StencilRefMV": 40.0,
+        "_StencilWriteMask": 6.0,
+        "_StencilWriteMaskDepth": 9.0,
+        "_StencilWriteMaskDistortionVec": 4.0,
+        "_StencilWriteMaskGBuffer": 15.0,
+        "_StencilWriteMaskMV": 41.0,
+        "_SubsurfaceMask": 1.0,
+        "_SupportDecals": 1.0,
+        "_SurfaceType": 0.0,
+        "_TexWorldScale": 1.0,
+        "_TexWorldScaleEmissive": 1.0,
+        "_Thickness": 1.0,
+        "_TransmissionEnable": 1.0,
+        "_TransmissionMask": 1.0,
+        "_TransparentBackfaceEnable": 0.0,
+        "_TransparentCullMode": 2.0,
+        "_TransparentDepthPostpassEnable": 0.0,
+        "_TransparentDepthPrepassEnable": 0.0,
+        "_TransparentSortPriority": 0.0,
+        "_TransparentWritingMotionVec": 0.0,
+        "_TransparentZWrite": 0.0,
+        "_UVBase": 0.0,
+        "_UVDetail": 0.0,
+        "_UVEmissive": 0.0,
+        "_UVSec": 0.0,
+        "_UseEmissiveIntensity": 0.0,
+        "_UseShadowThreshold": 0.0,
+        "_ZTestDepthEqualForOpaque": 3.0,
+        "_ZTestGBuffer": 4.0,
+        "_ZTestModeDistortion": 4.0,
+        "_ZTestTransparent": 4.0,
+        "_ZWrite": 1.0
+      },
+      "Colors": {
+        "_BaseColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_BaseColorMap_MipInfo": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_DiffusionProfileAsset": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_DoubleSidedConstants": [
+          1.0,
+          1.0,
+          -1.0,
+          0.0
+        ],
+        "_EmissionColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_EmissiveColor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_EmissiveColorLDR": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "_InvPrimScale": [
+          1.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_IridescenceThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_SpecColor": [
+          0.19999995827674866,
+          0.19999995827674866,
+          0.19999995827674866,
+          1.0
+        ],
+        "_SpecularColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_ThicknessRemap": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        "_TransmittanceColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "_UVDetailsMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMask": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "_UVMappingMaskEmissive": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Textures": [
+        {
+          "Name": "_BaseColorMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 3421
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MainTex",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 3421
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_MaskMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 741
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_NormalMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 1533
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "Name": "_SpecularColorMap",
+          "Texture": {
+            "File": "sharedassets1.assets",
+            "Id": 1700
+          },
+          "Scale": [
+            1.0,
+            1.0
+          ],
+          "Offset": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}
